@@ -4718,7 +4718,7 @@
             }
         }
     },
-    "pce:g:n:o:a:r": {
+    "pce:g:n:o:a+r": {
         "bea_name": "Expenditures abroad by U.S. residents",
         "table_row": 143,
         "level": 5,
@@ -4751,7 +4751,7 @@
             }
         }
     },
-    "pce:g:n:o:a:r:g": {
+    "pce:g:n:o:a+r:g": {
         "bea_name": "Government employees' expenditures abroad",
         "table_row": 144,
         "level": 6,
@@ -4784,7 +4784,7 @@
             }
         }
     },
-    "pce:g:n:o:a:r:p": {
+    "pce:g:n:o:a+r:p": {
         "bea_name": "Private employees' expenditures abroad",
         "table_row": 145,
         "level": 6,
@@ -4817,7 +4817,7 @@
             }
         }
     },
-    "pce:g:n:o:a:l": {
+    "pce:g:n:o:a-l": {
         "bea_name": "Less: Personal remittances in kind to nonresidents",
         "table_row": 146,
         "level": 5,
@@ -8843,7 +8843,7 @@
             }
         }
     },
-    "pce:s:h:i:i:h:p": {
+    "pce:s:h:i:i:h+p": {
         "bea_name": "Household insurance premiums and premium supplements",
         "table_row": 268,
         "level": 6,
@@ -8876,7 +8876,7 @@
             }
         }
     },
-    "pce:s:h:i:i:h:l": {
+    "pce:s:h:i:i:h-l": {
         "bea_name": "Less: Household insurance normal losses",
         "table_row": 269,
         "level": 6,
@@ -8942,7 +8942,7 @@
             }
         }
     },
-    "pce:s:h:i:i:c:m": {
+    "pce:s:h:i:i:c+m": {
         "bea_name": "Medical care and hospitalization",
         "table_row": 271,
         "level": 6,
@@ -8975,7 +8975,7 @@
             }
         }
     },
-    "pce:s:h:i:i:c:l": {
+    "pce:s:h:i:i:c-l": {
         "bea_name": "Income loss",
         "table_row": 272,
         "level": 6,
@@ -9008,7 +9008,7 @@
             }
         }
     },
-    "pce:s:h:i:i:c:w": {
+    "pce:s:h:i:i:c+w": {
         "bea_name": "Workers' compensation",
         "table_row": 273,
         "level": 6,
@@ -10856,7 +10856,7 @@
             }
         }
     },
-    "pce:s:h:o:f:r": {
+    "pce:s:h:o:f+r": {
         "bea_name": "Foreign travel by U.S. residents (129)",
         "table_row": 329,
         "level": 5,
@@ -10889,7 +10889,7 @@
             }
         }
     },
-    "pce:s:h:o:f:r:f": {
+    "pce:s:h:o:f+r:f": {
         "bea_name": "Passenger fares for foreign travel",
         "table_row": 330,
         "level": 6,
@@ -10922,7 +10922,7 @@
             }
         }
     },
-    "pce:s:h:o:f:r:t": {
+    "pce:s:h:o:f+r:t": {
         "bea_name": "U.S. travel outside the United States",
         "table_row": 331,
         "level": 6,
@@ -10955,7 +10955,7 @@
             }
         }
     },
-    "pce:s:h:o:f:r:s": {
+    "pce:s:h:o:f+r:s": {
         "bea_name": "U.S. student expenditures",
         "table_row": 332,
         "level": 6,
@@ -10988,7 +10988,7 @@
             }
         }
     },
-    "pce:s:h:o:f:l": {
+    "pce:s:h:o:f-l": {
         "bea_name": "Less: Expenditures in the United States by nonresidents (130)",
         "table_row": 333,
         "level": 5,
@@ -11021,7 +11021,7 @@
             }
         }
     },
-    "pce:s:h:o:f:l:t": {
+    "pce:s:h:o:f-l:t": {
         "bea_name": "Foreign travel in the United States",
         "table_row": 334,
         "level": 6,
@@ -11054,7 +11054,7 @@
             }
         }
     },
-    "pce:s:h:o:f:l:m": {
+    "pce:s:h:o:f-l:m": {
         "bea_name": "Medical expenditures of foreigners",
         "table_row": 335,
         "level": 6,
@@ -11087,7 +11087,7 @@
             }
         }
     },
-    "pce:s:h:o:f:l:s": {
+    "pce:s:h:o:f-l:s": {
         "bea_name": "Expenditures of foreign students in the United States",
         "table_row": 336,
         "level": 6,
@@ -11153,7 +11153,7 @@
             }
         }
     },
-    "pce:s:n:o": {
+    "pce:s:n+o": {
         "bea_name": "Gross output of nonprofit institutions (133)",
         "table_row": 338,
         "level": 3,
@@ -11186,7 +11186,7 @@
             }
         }
     },
-    "pce:s:n:o:h": {
+    "pce:s:n+o:h": {
         "bea_name": "Health, gross output",
         "table_row": 339,
         "level": 4,
@@ -11219,7 +11219,7 @@
             }
         }
     },
-    "pce:s:n:o:h:o": {
+    "pce:s:n+o:h:o": {
         "bea_name": "Outpatient services, gross output",
         "table_row": 340,
         "level": 5,
@@ -11252,7 +11252,7 @@
             }
         }
     },
-    "pce:s:n:o:h:h": {
+    "pce:s:n+o:h:h": {
         "bea_name": "Nonprofit hospitals, gross output",
         "table_row": 341,
         "level": 5,
@@ -11285,7 +11285,7 @@
             }
         }
     },
-    "pce:s:n:o:h:n": {
+    "pce:s:n+o:h:n": {
         "bea_name": "Nonprofit nursing homes, gross output",
         "table_row": 342,
         "level": 5,
@@ -11318,7 +11318,7 @@
             }
         }
     },
-    "pce:s:n:o:r": {
+    "pce:s:n+o:r": {
         "bea_name": "Recreation services, gross output",
         "table_row": 343,
         "level": 4,
@@ -11351,7 +11351,7 @@
             }
         }
     },
-    "pce:s:n:o:e": {
+    "pce:s:n+o:e": {
         "bea_name": "Education services, gross output",
         "table_row": 344,
         "level": 4,
@@ -11384,7 +11384,7 @@
             }
         }
     },
-    "pce:s:n:o:s": {
+    "pce:s:n+o:s": {
         "bea_name": "Social services, gross output",
         "table_row": 345,
         "level": 4,
@@ -11417,7 +11417,7 @@
             }
         }
     },
-    "pce:s:n:o:b": {
+    "pce:s:n+o:b": {
         "bea_name": "Religious organizations, gross output",
         "table_row": 346,
         "level": 4,
@@ -11450,7 +11450,7 @@
             }
         }
     },
-    "pce:s:n:o:f": {
+    "pce:s:n+o:f": {
         "bea_name": "Foundations and grantmaking and giving establishments, gross output",
         "table_row": 347,
         "level": 4,
@@ -11483,7 +11483,7 @@
             }
         }
     },
-    "pce:s:n:o:a": {
+    "pce:s:n+o:a": {
         "bea_name": "Social advocacy establishments, gross output",
         "table_row": 348,
         "level": 4,
@@ -11516,7 +11516,7 @@
             }
         }
     },
-    "pce:s:n:o:c": {
+    "pce:s:n+o:c": {
         "bea_name": "Civic and social organizations, gross output",
         "table_row": 349,
         "level": 4,
@@ -11549,7 +11549,7 @@
             }
         }
     },
-    "pce:s:n:o:p": {
+    "pce:s:n+o:p": {
         "bea_name": "Professional advocacy, gross output",
         "table_row": 350,
         "level": 4,
@@ -11582,7 +11582,7 @@
             }
         }
     },
-    "pce:s:n:l": {
+    "pce:s:n-l": {
         "bea_name": "Less: Receipts from sales of goods and services by nonprofit institutions (134)",
         "table_row": 351,
         "level": 3,
@@ -11615,7 +11615,7 @@
             }
         }
     },
-    "pce:s:n:l:h": {
+    "pce:s:n-l:h": {
         "bea_name": "Health services to households",
         "table_row": 352,
         "level": 4,
@@ -11648,7 +11648,7 @@
             }
         }
     },
-    "pce:s:n:l:h:o": {
+    "pce:s:n-l:h:o": {
         "bea_name": "Outpatient services to households",
         "table_row": 353,
         "level": 5,
@@ -11681,7 +11681,7 @@
             }
         }
     },
-    "pce:s:n:l:h:h": {
+    "pce:s:n-l:h:h": {
         "bea_name": "Nonprofit hospitals services to households",
         "table_row": 354,
         "level": 5,
@@ -11714,7 +11714,7 @@
             }
         }
     },
-    "pce:s:n:l:h:n": {
+    "pce:s:n-l:h:n": {
         "bea_name": "Nonprofit nursing homes services to households",
         "table_row": 355,
         "level": 5,
@@ -11747,7 +11747,7 @@
             }
         }
     },
-    "pce:s:n:l:r": {
+    "pce:s:n-l:r": {
         "bea_name": "Recreation services to households",
         "table_row": 356,
         "level": 4,
@@ -11780,7 +11780,7 @@
             }
         }
     },
-    "pce:s:n:l:e": {
+    "pce:s:n-l:e": {
         "bea_name": "Education services to households",
         "table_row": 357,
         "level": 4,
@@ -11813,7 +11813,7 @@
             }
         }
     },
-    "pce:s:n:l:s": {
+    "pce:s:n-l:s": {
         "bea_name": "Social services to households",
         "table_row": 358,
         "level": 4,
@@ -11846,7 +11846,7 @@
             }
         }
     },
-    "pce:s:n:l:b": {
+    "pce:s:n-l:b": {
         "bea_name": "Religious organizations' services to households",
         "table_row": 359,
         "level": 4,
@@ -11879,7 +11879,7 @@
             }
         }
     },
-    "pce:s:n:l:f": {
+    "pce:s:n-l:f": {
         "bea_name": "Foundations and grantmaking and giving services to households",
         "table_row": 360,
         "level": 4,
@@ -11912,7 +11912,7 @@
             }
         }
     },
-    "pce:s:n:l:a": {
+    "pce:s:n-l:a": {
         "bea_name": "Services of social advocacy establishments to households",
         "table_row": 361,
         "level": 4,
@@ -11945,7 +11945,7 @@
             }
         }
     },
-    "pce:s:n:l:c": {
+    "pce:s:n-l:c": {
         "bea_name": "Civic and social organizations' services to households",
         "table_row": 362,
         "level": 4,
@@ -11978,7 +11978,7 @@
             }
         }
     },
-    "pce:s:n:l:p": {
+    "pce:s:n-l:p": {
         "bea_name": "Professional advocacy services to households",
         "table_row": 363,
         "level": 4,
