@@ -4689,20 +4689,6 @@
         "bea_name": "Net expenditures abroad by U.S. residents (131)",
         "table_row": 142,
         "level": 4,
-        "quantity": {
-            "edan": "qpcegnoa",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        },
-        "price": {
-            "edan": "ppcegnoa",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        },
         "nominal": {
             "edan": "npcegnoa",
             "bea": {
@@ -10827,20 +10813,6 @@
         "bea_name": "Net foreign travel",
         "table_row": 328,
         "level": 4,
-        "quantity": {
-            "edan": "qpceshof",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        },
-        "price": {
-            "edan": "ppceshof",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        },
         "nominal": {
             "edan": "npceshof",
             "bea": {
@@ -12080,35 +12052,7 @@
     "cpcee": {
         "bea_name": "PCE energy goods and services1",
         "table_row": 366,
-        "level": 0,
-        "quantity": {
-            "edan": "qcpcee",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        },
-        "price": {
-            "edan": "pcpcee",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        },
-        "nominal": {
-            "edan": "ncpcee",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        },
-        "real": {
-            "edan": "rcpcee",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        }
+        "level": 0
     },
     "cpcef": {
         "bea_name": "PCE excluding food",
@@ -12179,68 +12123,12 @@
     "cpcec": {
         "bea_name": "PCE excluding food and energy2",
         "table_row": 369,
-        "level": 0,
-        "quantity": {
-            "edan": "qcpcec",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        },
-        "price": {
-            "edan": "pcpcec",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        },
-        "nominal": {
-            "edan": "ncpcec",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        },
-        "real": {
-            "edan": "rcpcec",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        }
+        "level": 0
     },
     "cpcegv": {
         "bea_name": "PCE goods excluding food and energy2",
         "table_row": 370,
-        "level": 0,
-        "quantity": {
-            "edan": "qcpcegv",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        },
-        "price": {
-            "edan": "pcpcegv",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        },
-        "nominal": {
-            "edan": "ncpcegv",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        },
-        "real": {
-            "edan": "rcpcegv",
-            "bea": {
-                "tablename": NaN,
-                "series_code": NaN
-            }
-        }
+        "level": 0
     },
     "cpcese": {
         "bea_name": "PCE services excluding energy",

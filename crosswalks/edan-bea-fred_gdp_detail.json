@@ -1520,22 +1520,6 @@
         "bea_name": "Change in private inventories",
         "table_row": 42,
         "level": 2,
-        "quantity": {
-            "edan": "qgdppdic",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
-        "price": {
-            "edan": "pgdppdic",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
         "nominal": {
             "edan": "ngdppdic",
             "bea": {
@@ -1557,22 +1541,6 @@
         "bea_name": "Farm",
         "table_row": 43,
         "level": 3,
-        "quantity": {
-            "edan": "qgdppdicf",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
-        "price": {
-            "edan": "pgdppdicf",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
         "nominal": {
             "edan": "ngdppdicf",
             "bea": {
@@ -1594,22 +1562,6 @@
         "bea_name": "Nonfarm",
         "table_row": 44,
         "level": 3,
-        "quantity": {
-            "edan": "qgdppdicn",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
-        "price": {
-            "edan": "pgdppdicn",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
         "nominal": {
             "edan": "ngdppdicn",
             "bea": {
@@ -1631,22 +1583,6 @@
         "bea_name": "Net exports of goods and services",
         "table_row": 45,
         "level": 1,
-        "quantity": {
-            "edan": "qgdpnx",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
-        "price": {
-            "edan": "pgdpnx",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
         "nominal": {
             "edan": "ngdpnx",
             "bea": {
@@ -2297,30 +2233,6 @@
         "bea_name": "Residual",
         "table_row": 63,
         "level": 1,
-        "quantity": {
-            "edan": "qgdpres",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
-        "price": {
-            "edan": "pgdpres",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
-        "nominal": {
-            "edan": "ngdpres",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
         "real": {
             "edan": "rgdpres",
             "bea": {

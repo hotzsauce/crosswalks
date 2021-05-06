@@ -484,22 +484,6 @@
         "bea_name": "Change in private inventories",
         "table_row": 14,
         "level": 2,
-        "quantity": {
-            "edan": "qgdppdic",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
-        "price": {
-            "edan": "pgdppdic",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
         "nominal": {
             "edan": "ngdppdic",
             "bea": {
@@ -521,22 +505,6 @@
         "bea_name": "Net exports of goods and services",
         "table_row": 15,
         "level": 1,
-        "quantity": {
-            "edan": "qgdpnx",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
-        "price": {
-            "edan": "pgdpnx",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
         "nominal": {
             "edan": "ngdpnx",
             "bea": {
@@ -965,30 +933,6 @@
         "bea_name": "Residual",
         "table_row": 27,
         "level": 1,
-        "quantity": {
-            "edan": "qgdpres",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
-        "price": {
-            "edan": "pgdpres",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
-        "nominal": {
-            "edan": "ngdpres",
-            "bea": {
-                "tablename": "",
-                "series_name": ""
-            },
-            "fred": ""
-        },
         "real": {
             "edan": "rgdpres",
             "bea": {
