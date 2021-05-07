@@ -4,6 +4,7 @@ a FunnelMap
 """
 
 from __future__ import annotations
+
 import json
 
 measures = ['quantity', 'price', 'nominal', 'real']
@@ -24,7 +25,6 @@ def sniff_sources(cross_map: dict) -> list:
 
 	return list(measure_maps.keys())
 
-
 def ensure_hashable(obj):
 	"""make sure mappings & iterables are hashable """
 	try:
@@ -43,7 +43,8 @@ def ensure_hashable(obj):
 def translate(
 	obj: Union[str, dict],
 	source: str = 'edan',
-	as_funnel: bool = False
+	as_funnel: bool = False,
+	strict: bool = True
 ) -> Union[dict, FunnelMap]:
 	"""
 	translate the stored crosswalk-type jsons stored here into (1) dictionaries
@@ -60,6 +61,11 @@ def translate(
 	as_funnel : bool ( = False )
 		if False, return a dictionary. if True, return a FunnelMap with the
 		dictionary as the underlying mapping. the `funnelmap` package is required
+	strict : bool ( = True )
+		no effect if `as_funnel = False`. otherwise, in the case of duplicate
+		aliases, determines if a KeyError should be raised upon FunnelMap
+		initialization. if `strict = False`, no error is raised and the mapping
+		to the first id is preserved
 
 	Returns
 	-------
@@ -82,12 +88,19 @@ def translate(
 	for cross in cross_map.values():
 
 		for measure in measures:
-			meas_sources = cross[measure]
+			try:
+				# some series are not quantity or price indices, or nominal
+				meas_sources = cross[measure]
 
-			id_ = meas_sources.pop(source)
-			aliases = [ensure_hashable(v) for v in meas_sources.values()]
+				id_ = ensure_hashable(meas_sources.pop(source))
+				aliases = [ensure_hashable(v) for v in meas_sources.values()]
 
-			funnel_dict[id_] = aliases
+				if len(aliases) == 1:
+					funnel_dict[id_] = aliases[0]
+				else:
+					funnel_dict[id_] = aliases
+			except KeyError:
+				pass
 
 	if as_funnel:
 		try:
@@ -97,6 +110,6 @@ def translate(
 				"'funnelmap' library is needed if `as_funnel = True`"
 			) from None
 
-		return funnelmap.FunnelMap(funnel_dict)
+		return funnelmap.FunnelMap(funnel_dict, strict)
 
 	return funnel_dict
