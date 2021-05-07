@@ -6,7 +6,7 @@
         "quantity": {
             "edan": "qgdp",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "a191ra"
             },
             "fred": "a191ra3q086sbea"
@@ -14,7 +14,7 @@
         "price": {
             "edan": "pgdp",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "a191rg"
             },
             "fred": "gdpctpi"
@@ -22,7 +22,7 @@
         "nominal": {
             "edan": "ngdp",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a191rc"
             },
             "fred": "gdp"
@@ -30,7 +30,7 @@
         "real": {
             "edan": "rgdp",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a191rx"
             },
             "fred": "gdpc1"
@@ -43,7 +43,7 @@
         "quantity": {
             "edan": "qgdppce",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dpcera"
             },
             "fred": "dpcera3q086sbea"
@@ -51,7 +51,7 @@
         "price": {
             "edan": "pgdppce",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dpcerg"
             },
             "fred": "pcectpi"
@@ -59,7 +59,7 @@
         "nominal": {
             "edan": "ngdppce",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dpcerc"
             },
             "fred": "pcec"
@@ -67,7 +67,7 @@
         "real": {
             "edan": "rgdppce",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dpcerx"
             },
             "fred": "pcecc96"
@@ -80,7 +80,7 @@
         "quantity": {
             "edan": "qgdppceg",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dgdsra"
             },
             "fred": "dgdsra3q086sbea"
@@ -88,7 +88,7 @@
         "price": {
             "edan": "pgdppceg",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dgdsrg"
             },
             "fred": "dgdsrg3q086sbea"
@@ -96,7 +96,7 @@
         "nominal": {
             "edan": "ngdppceg",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dgdsrc"
             },
             "fred": "dgdsrc1q027sbea"
@@ -104,7 +104,7 @@
         "real": {
             "edan": "rgdppceg",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dgdsrx"
             },
             "fred": "dgdsrx1q020sbea"
@@ -117,7 +117,7 @@
         "quantity": {
             "edan": "qgdppcegd",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "ddurra"
             },
             "fred": "ddurra3q086sbea"
@@ -125,7 +125,7 @@
         "price": {
             "edan": "pgdppcegd",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "ddurrg"
             },
             "fred": "ddurrg3q086sbea"
@@ -133,7 +133,7 @@
         "nominal": {
             "edan": "ngdppcegd",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "ddurrc"
             },
             "fred": "pcdg"
@@ -141,7 +141,7 @@
         "real": {
             "edan": "rgdppcegd",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "ddurrx"
             },
             "fred": "pcdgcc96"
@@ -154,7 +154,7 @@
         "quantity": {
             "edan": "qgdppcegdv",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dmotra"
             },
             "fred": "dmotra3q086sbea"
@@ -162,7 +162,7 @@
         "price": {
             "edan": "pgdppcegdv",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dmotrg"
             },
             "fred": "dmotrg3q086sbea"
@@ -170,7 +170,7 @@
         "nominal": {
             "edan": "ngdppcegdv",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dmotrc"
             },
             "fred": "dmotrc1q027sbea"
@@ -178,7 +178,7 @@
         "real": {
             "edan": "rgdppcegdv",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dmotrx"
             },
             "fred": "dmotrx1q020sbea"
@@ -191,7 +191,7 @@
         "quantity": {
             "edan": "qgdppcegdf",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dfdhra"
             },
             "fred": "dfdhra3q086sbea"
@@ -199,7 +199,7 @@
         "price": {
             "edan": "pgdppcegdf",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dfdhrg"
             },
             "fred": "dfdhrg3q086sbea"
@@ -207,7 +207,7 @@
         "nominal": {
             "edan": "ngdppcegdf",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dfdhrc"
             },
             "fred": "dfdhrc1q027sbea"
@@ -215,7 +215,7 @@
         "real": {
             "edan": "rgdppcegdf",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dfdhrx"
             },
             "fred": "dfdhrx1q020sbea"
@@ -228,7 +228,7 @@
         "quantity": {
             "edan": "qgdppcegdr",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dreqra"
             },
             "fred": "dreqra3q086sbea"
@@ -236,7 +236,7 @@
         "price": {
             "edan": "pgdppcegdr",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dreqrg"
             },
             "fred": "dreqrg3q086sbea"
@@ -244,7 +244,7 @@
         "nominal": {
             "edan": "ngdppcegdr",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dreqrc"
             },
             "fred": "dreqrc1q027sbea"
@@ -252,7 +252,7 @@
         "real": {
             "edan": "rgdppcegdr",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dreqrx"
             },
             "fred": "dreqrx1q020sbea"
@@ -265,7 +265,7 @@
         "quantity": {
             "edan": "qgdppcegdo",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dodgra"
             },
             "fred": "dodgra3q086sbea"
@@ -273,7 +273,7 @@
         "price": {
             "edan": "pgdppcegdo",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dodgrg"
             },
             "fred": "dodgrg3q086sbea"
@@ -281,7 +281,7 @@
         "nominal": {
             "edan": "ngdppcegdo",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dodgrc"
             },
             "fred": "dodgrc1q027sbea"
@@ -289,7 +289,7 @@
         "real": {
             "edan": "rgdppcegdo",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dodgrx"
             },
             "fred": "dodgrx1q020sbea"
@@ -302,7 +302,7 @@
         "quantity": {
             "edan": "qgdppcegn",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dndgra"
             },
             "fred": "dndgra3q086sbea"
@@ -310,7 +310,7 @@
         "price": {
             "edan": "pgdppcegn",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dndgrg"
             },
             "fred": "dndgrg3q086sbea"
@@ -318,7 +318,7 @@
         "nominal": {
             "edan": "ngdppcegn",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dndgrc"
             },
             "fred": "pcnd"
@@ -326,7 +326,7 @@
         "real": {
             "edan": "rgdppcegn",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dndgrx"
             },
             "fred": "pcndgc96"
@@ -339,7 +339,7 @@
         "quantity": {
             "edan": "qgdppcegnf",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dfxara"
             },
             "fred": "dfxara3q086sbea"
@@ -347,7 +347,7 @@
         "price": {
             "edan": "pgdppcegnf",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dfxarg"
             },
             "fred": "dfxarg3q086sbea"
@@ -355,7 +355,7 @@
         "nominal": {
             "edan": "ngdppcegnf",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dfxarc"
             },
             "fred": "dfxarc1q027sbea"
@@ -363,7 +363,7 @@
         "real": {
             "edan": "rgdppcegnf",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dfxarx"
             },
             "fred": "dfxarx1q020sbea"
@@ -376,7 +376,7 @@
         "quantity": {
             "edan": "qgdppcegnc",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dclora"
             },
             "fred": "dclora3q086sbea"
@@ -384,7 +384,7 @@
         "price": {
             "edan": "pgdppcegnc",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dclorg"
             },
             "fred": "dclorg3q086sbea"
@@ -392,7 +392,7 @@
         "nominal": {
             "edan": "ngdppcegnc",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dclorc"
             },
             "fred": "dclorc1q027sbea"
@@ -400,7 +400,7 @@
         "real": {
             "edan": "rgdppcegnc",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dclorx"
             },
             "fred": "dclorx1q020sbea"
@@ -413,7 +413,7 @@
         "quantity": {
             "edan": "qgdppcegng",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dgoera"
             },
             "fred": "dgoera3q086sbea"
@@ -421,7 +421,7 @@
         "price": {
             "edan": "pgdppcegng",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dgoerg"
             },
             "fred": "dgoerg3q086sbea"
@@ -429,7 +429,7 @@
         "nominal": {
             "edan": "ngdppcegng",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dgoerc"
             },
             "fred": "dgoerc1q027sbea"
@@ -437,7 +437,7 @@
         "real": {
             "edan": "rgdppcegng",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dgoerx"
             },
             "fred": "dgoerx1q020sbea"
@@ -450,7 +450,7 @@
         "quantity": {
             "edan": "qgdppcegno",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dongra"
             },
             "fred": "dongra3q086sbea"
@@ -458,7 +458,7 @@
         "price": {
             "edan": "pgdppcegno",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dongrg"
             },
             "fred": "dongrg3q086sbea"
@@ -466,7 +466,7 @@
         "nominal": {
             "edan": "ngdppcegno",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dongrc"
             },
             "fred": "dongrc1q027sbea"
@@ -474,7 +474,7 @@
         "real": {
             "edan": "rgdppcegno",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dongrx"
             },
             "fred": "dongrx1q020sbea"
@@ -487,7 +487,7 @@
         "quantity": {
             "edan": "qgdppces",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dserra"
             },
             "fred": "dserra3q086sbea"
@@ -495,7 +495,7 @@
         "price": {
             "edan": "pgdppces",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dserrg"
             },
             "fred": "dserrg3q086sbea"
@@ -503,7 +503,7 @@
         "nominal": {
             "edan": "ngdppces",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dserrc"
             },
             "fred": "pcesv"
@@ -511,7 +511,7 @@
         "real": {
             "edan": "rgdppces",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dserrx"
             },
             "fred": "pcesvc96"
@@ -524,7 +524,7 @@
         "quantity": {
             "edan": "qgdppcesh",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dhcera"
             },
             "fred": "dhcera3q086sbea"
@@ -532,7 +532,7 @@
         "price": {
             "edan": "pgdppcesh",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dhcerg"
             },
             "fred": "dhcerg3q086sbea"
@@ -540,7 +540,7 @@
         "nominal": {
             "edan": "ngdppcesh",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dhcerc"
             },
             "fred": "dhcerc1q027sbea"
@@ -548,7 +548,7 @@
         "real": {
             "edan": "rgdppcesh",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dhcerx"
             },
             "fred": "dhcerx1q020sbea"
@@ -561,7 +561,7 @@
         "quantity": {
             "edan": "qgdppceshh",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dhutra"
             },
             "fred": "dhutra3q086sbea"
@@ -569,7 +569,7 @@
         "price": {
             "edan": "pgdppceshh",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dhutrg"
             },
             "fred": "dhutrg3q086sbea"
@@ -577,7 +577,7 @@
         "nominal": {
             "edan": "ngdppceshh",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dhutrc"
             },
             "fred": "dhutrc1q027sbea"
@@ -585,7 +585,7 @@
         "real": {
             "edan": "rgdppceshh",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dhutrx"
             },
             "fred": "dhutrx1q020sbea"
@@ -598,7 +598,7 @@
         "quantity": {
             "edan": "qgdppceshc",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dhlcra"
             },
             "fred": "dhlcra3q086sbea"
@@ -606,7 +606,7 @@
         "price": {
             "edan": "pgdppceshc",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dhlcrg"
             },
             "fred": "dhlcrg3q086sbea"
@@ -614,7 +614,7 @@
         "nominal": {
             "edan": "ngdppceshc",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dhlcrc"
             },
             "fred": "dhlcrc1q027sbea"
@@ -622,7 +622,7 @@
         "real": {
             "edan": "rgdppceshc",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dhlcrx"
             },
             "fred": "dhlcrx1q020sbea"
@@ -635,7 +635,7 @@
         "quantity": {
             "edan": "qgdppcesht",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dtrsra"
             },
             "fred": "dtrsra3q086sbea"
@@ -643,7 +643,7 @@
         "price": {
             "edan": "pgdppcesht",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dtrsrg"
             },
             "fred": "dtrsrg3q086sbea"
@@ -651,7 +651,7 @@
         "nominal": {
             "edan": "ngdppcesht",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dtrsrc"
             },
             "fred": "dtrsrc1q027sbea"
@@ -659,7 +659,7 @@
         "real": {
             "edan": "rgdppcesht",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dtrsrx"
             },
             "fred": "dtrsrx1q020sbea"
@@ -672,7 +672,7 @@
         "quantity": {
             "edan": "qgdppceshr",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "drcara"
             },
             "fred": "drcara3q086sbea"
@@ -680,7 +680,7 @@
         "price": {
             "edan": "pgdppceshr",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "drcarg"
             },
             "fred": "drcarg3q086sbea"
@@ -688,7 +688,7 @@
         "nominal": {
             "edan": "ngdppceshr",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "drcarc"
             },
             "fred": "drcarc1q027sbea"
@@ -696,7 +696,7 @@
         "real": {
             "edan": "rgdppceshr",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "drcarx"
             },
             "fred": "drcarx1q020sbea"
@@ -709,7 +709,7 @@
         "quantity": {
             "edan": "qgdppceshf",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dfsara"
             },
             "fred": "dfsara3q086sbea"
@@ -717,7 +717,7 @@
         "price": {
             "edan": "pgdppceshf",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dfsarg"
             },
             "fred": "dfsarg3q086sbea"
@@ -725,7 +725,7 @@
         "nominal": {
             "edan": "ngdppceshf",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dfsarc"
             },
             "fred": "dfsarc1q027sbea"
@@ -733,7 +733,7 @@
         "real": {
             "edan": "rgdppceshf",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dfsarx"
             },
             "fred": "dfsarx1q020sbea"
@@ -746,7 +746,7 @@
         "quantity": {
             "edan": "qgdppceshi",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "difsra"
             },
             "fred": "difsra3q086sbea"
@@ -754,7 +754,7 @@
         "price": {
             "edan": "pgdppceshi",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "difsrg"
             },
             "fred": "difsrg3q086sbea"
@@ -762,7 +762,7 @@
         "nominal": {
             "edan": "ngdppceshi",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "difsrc"
             },
             "fred": "difsrc1q027sbea"
@@ -770,7 +770,7 @@
         "real": {
             "edan": "rgdppceshi",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "difsrx"
             },
             "fred": "difsrx1q020sbea"
@@ -783,7 +783,7 @@
         "quantity": {
             "edan": "qgdppcesho",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dotsra"
             },
             "fred": "dotsra3q086sbea"
@@ -791,7 +791,7 @@
         "price": {
             "edan": "pgdppcesho",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dotsrg"
             },
             "fred": "dotsrg3q086sbea"
@@ -799,7 +799,7 @@
         "nominal": {
             "edan": "ngdppcesho",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dotsrc"
             },
             "fred": "dotsrc1q027sbea"
@@ -807,7 +807,7 @@
         "real": {
             "edan": "rgdppcesho",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dotsrx"
             },
             "fred": "dotsrx1q020sbea"
@@ -820,7 +820,7 @@
         "quantity": {
             "edan": "qgdppcesn",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dnpira"
             },
             "fred": "dnpira3q086sbea"
@@ -828,7 +828,7 @@
         "price": {
             "edan": "pgdppcesn",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dnpirg"
             },
             "fred": "dnpirg3q086sbea"
@@ -836,7 +836,7 @@
         "nominal": {
             "edan": "ngdppcesn",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dnpirc"
             },
             "fred": "dnpirc1q027sbea"
@@ -844,7 +844,7 @@
         "real": {
             "edan": "rgdppcesn",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dnpirx"
             },
             "fred": "dnpirx1q020sbea"
@@ -857,7 +857,7 @@
         "quantity": {
             "edan": "qgdppcesno",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dnpera"
             },
             "fred": "dnpera3q086sbea"
@@ -865,7 +865,7 @@
         "price": {
             "edan": "pgdppcesno",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dnperg"
             },
             "fred": "dnperg3q086sbea"
@@ -873,7 +873,7 @@
         "nominal": {
             "edan": "ngdppcesno",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dnperc"
             },
             "fred": "dnperc1q027sbea"
@@ -881,7 +881,7 @@
         "real": {
             "edan": "rgdppcesno",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dnperx"
             },
             "fred": "dnperx1q020sbea"
@@ -894,7 +894,7 @@
         "quantity": {
             "edan": "qgdppcesnl",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "dnpsra"
             },
             "fred": "dnpsra3q086sbea"
@@ -902,7 +902,7 @@
         "price": {
             "edan": "pgdppcesnl",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "dnpsrg"
             },
             "fred": "dnpsrg3q086sbea"
@@ -910,7 +910,7 @@
         "nominal": {
             "edan": "ngdppcesnl",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "dnpsrc"
             },
             "fred": "dnpsrc1q027sbea"
@@ -918,7 +918,7 @@
         "real": {
             "edan": "rgdppcesnl",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "dnpsrx"
             },
             "fred": "dnpsrx1q020sbea"
@@ -931,7 +931,7 @@
         "quantity": {
             "edan": "qgdppdi",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "a006ra"
             },
             "fred": "a006ra3q086sbea"
@@ -939,7 +939,7 @@
         "price": {
             "edan": "pgdppdi",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b006rg"
             },
             "fred": "gpdictpi"
@@ -947,7 +947,7 @@
         "nominal": {
             "edan": "ngdppdi",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a006rc"
             },
             "fred": "gpdi"
@@ -955,7 +955,7 @@
         "real": {
             "edan": "rgdppdi",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a006rx"
             },
             "fred": "gpdic1"
@@ -968,7 +968,7 @@
         "quantity": {
             "edan": "qgdppdif",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "a007ra"
             },
             "fred": "a007ra3q086sbea"
@@ -976,7 +976,7 @@
         "price": {
             "edan": "pgdppdif",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b007rg"
             },
             "fred": "b007rg3q086sbea"
@@ -984,7 +984,7 @@
         "nominal": {
             "edan": "ngdppdif",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a007rc"
             },
             "fred": "fpi"
@@ -992,7 +992,7 @@
         "real": {
             "edan": "rgdppdif",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a007rx"
             },
             "fred": "fpic1"
@@ -1005,7 +1005,7 @@
         "quantity": {
             "edan": "qgdppdifn",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "a008ra"
             },
             "fred": "a008ra3q086sbea"
@@ -1013,7 +1013,7 @@
         "price": {
             "edan": "pgdppdifn",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b008rg"
             },
             "fred": "b008rg3q086sbea"
@@ -1021,7 +1021,7 @@
         "nominal": {
             "edan": "ngdppdifn",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a008rc"
             },
             "fred": "pnfi"
@@ -1029,7 +1029,7 @@
         "real": {
             "edan": "rgdppdifn",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a008rx"
             },
             "fred": "pnfic1"
@@ -1042,7 +1042,7 @@
         "quantity": {
             "edan": "qgdppdifns",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b009ra"
             },
             "fred": "b009ra3q086sbea"
@@ -1050,7 +1050,7 @@
         "price": {
             "edan": "pgdppdifns",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b009rg"
             },
             "fred": "b009rg3q086sbea"
@@ -1058,7 +1058,7 @@
         "nominal": {
             "edan": "ngdppdifns",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "b009rc"
             },
             "fred": "b009rc1q027sbea"
@@ -1066,7 +1066,7 @@
         "real": {
             "edan": "rgdppdifns",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "b009rx"
             },
             "fred": "b009rx1q020sbea"
@@ -1079,7 +1079,7 @@
         "quantity": {
             "edan": "qgdppdifne",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "y033ra"
             },
             "fred": "y033ra3q086sbea"
@@ -1087,7 +1087,7 @@
         "price": {
             "edan": "pgdppdifne",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "y033rg"
             },
             "fred": "y033rg3q086sbea"
@@ -1095,7 +1095,7 @@
         "nominal": {
             "edan": "ngdppdifne",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "y033rc"
             },
             "fred": "y033rc1q027sbea"
@@ -1103,7 +1103,7 @@
         "real": {
             "edan": "rgdppdifne",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "y033rx"
             },
             "fred": "y033rx1q020sbea"
@@ -1116,7 +1116,7 @@
         "quantity": {
             "edan": "qgdppdifnei",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "y034ra"
             },
             "fred": "y034ra3q086sbea"
@@ -1124,7 +1124,7 @@
         "price": {
             "edan": "pgdppdifnei",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "y034rg"
             },
             "fred": "y034rg3q086sbea"
@@ -1132,7 +1132,7 @@
         "nominal": {
             "edan": "ngdppdifnei",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "y034rc"
             },
             "fred": "y034rc1q027sbea"
@@ -1140,7 +1140,7 @@
         "real": {
             "edan": "rgdppdifnei",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "y034rx"
             },
             "fred": "y034rx1q020sbea"
@@ -1153,7 +1153,7 @@
         "quantity": {
             "edan": "qgdppdifneic",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b935ra"
             },
             "fred": "b935ra3q086sbea"
@@ -1161,7 +1161,7 @@
         "price": {
             "edan": "pgdppdifneic",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b935rg"
             },
             "fred": "b935rg3q086sbea"
@@ -1169,7 +1169,7 @@
         "nominal": {
             "edan": "ngdppdifneic",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "b935rc"
             },
             "fred": "b935rc1q027sbea"
@@ -1177,7 +1177,7 @@
         "real": {
             "edan": "rgdppdifneic",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "b935rx"
             },
             "fred": "b935rx1q020sbea"
@@ -1190,7 +1190,7 @@
         "quantity": {
             "edan": "qgdppdifneio",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "a937ra"
             },
             "fred": "a937ra3q086sbea"
@@ -1198,7 +1198,7 @@
         "price": {
             "edan": "pgdppdifneio",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "a937rg"
             },
             "fred": "a937rg3q086sbea"
@@ -1206,7 +1206,7 @@
         "nominal": {
             "edan": "ngdppdifneio",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a937rc"
             },
             "fred": "a937rc1q027sbea"
@@ -1214,7 +1214,7 @@
         "real": {
             "edan": "rgdppdifneio",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a937rx"
             },
             "fred": "a937rx1q020sbea"
@@ -1227,7 +1227,7 @@
         "quantity": {
             "edan": "qgdppdifnen",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "a680ra"
             },
             "fred": "a680ra3q086sbea"
@@ -1235,7 +1235,7 @@
         "price": {
             "edan": "pgdppdifnen",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "a680rg"
             },
             "fred": "a680rg3q086sbea"
@@ -1243,7 +1243,7 @@
         "nominal": {
             "edan": "ngdppdifnen",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a680rc"
             },
             "fred": "a680rc1q027sbea"
@@ -1251,7 +1251,7 @@
         "real": {
             "edan": "rgdppdifnen",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a680rx"
             },
             "fred": "a680rx1q020sbea"
@@ -1264,7 +1264,7 @@
         "quantity": {
             "edan": "qgdppdifnet",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "a681ra"
             },
             "fred": "a681ra3q086sbea"
@@ -1272,7 +1272,7 @@
         "price": {
             "edan": "pgdppdifnet",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "a681rg"
             },
             "fred": "a681rg3q086sbea"
@@ -1280,7 +1280,7 @@
         "nominal": {
             "edan": "ngdppdifnet",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a681rc"
             },
             "fred": "a681rc1q027sbea"
@@ -1288,7 +1288,7 @@
         "real": {
             "edan": "rgdppdifnet",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a681rx"
             },
             "fred": "a681rx1q020sbea"
@@ -1301,7 +1301,7 @@
         "quantity": {
             "edan": "qgdppdifneo",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "a862ra"
             },
             "fred": "a862ra3q086sbea"
@@ -1309,7 +1309,7 @@
         "price": {
             "edan": "pgdppdifneo",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "a862rg"
             },
             "fred": "a862rg3q086sbea"
@@ -1317,7 +1317,7 @@
         "nominal": {
             "edan": "ngdppdifneo",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a862rc"
             },
             "fred": "a862rc1q027sbea"
@@ -1325,7 +1325,7 @@
         "real": {
             "edan": "rgdppdifneo",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a862rx"
             },
             "fred": "a862rx1q020sbea"
@@ -1338,7 +1338,7 @@
         "quantity": {
             "edan": "qgdppdifni",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "y001ra"
             },
             "fred": "y001ra3q086sbea"
@@ -1346,7 +1346,7 @@
         "price": {
             "edan": "pgdppdifni",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "y001rg"
             },
             "fred": "y001rg3q086sbea"
@@ -1354,7 +1354,7 @@
         "nominal": {
             "edan": "ngdppdifni",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "y001rc"
             },
             "fred": "y001rc1q027sbea"
@@ -1362,7 +1362,7 @@
         "real": {
             "edan": "rgdppdifni",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "y001rx"
             },
             "fred": "y001rx1q020sbea"
@@ -1375,7 +1375,7 @@
         "quantity": {
             "edan": "qgdppdifnis",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b985ra"
             },
             "fred": "b985ra3q086sbea"
@@ -1383,7 +1383,7 @@
         "price": {
             "edan": "pgdppdifnis",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b985rg"
             },
             "fred": "b985rg3q086sbea"
@@ -1391,7 +1391,7 @@
         "nominal": {
             "edan": "ngdppdifnis",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "b985rc"
             },
             "fred": "b985rc1q027sbea"
@@ -1399,7 +1399,7 @@
         "real": {
             "edan": "rgdppdifnis",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "b985rx"
             },
             "fred": "b985rx1q020sbea"
@@ -1412,7 +1412,7 @@
         "quantity": {
             "edan": "qgdppdifnir",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "y006ra"
             },
             "fred": "y006ra3q086sbea"
@@ -1420,7 +1420,7 @@
         "price": {
             "edan": "pgdppdifnir",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "y006rg"
             },
             "fred": "y006rg3q086sbea"
@@ -1428,7 +1428,7 @@
         "nominal": {
             "edan": "ngdppdifnir",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "y006rc"
             },
             "fred": "y006rc1q027sbea"
@@ -1436,7 +1436,7 @@
         "real": {
             "edan": "rgdppdifnir",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "y006rx"
             },
             "fred": "y006rx1q020sbea"
@@ -1449,7 +1449,7 @@
         "quantity": {
             "edan": "qgdppdifnie",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "y020ra"
             },
             "fred": "y020ra3q086sbea"
@@ -1457,7 +1457,7 @@
         "price": {
             "edan": "pgdppdifnie",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "y020rg"
             },
             "fred": "y020rg3q086sbea"
@@ -1465,7 +1465,7 @@
         "nominal": {
             "edan": "ngdppdifnie",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "y020rc"
             },
             "fred": "y020rc1q027sbea"
@@ -1473,7 +1473,7 @@
         "real": {
             "edan": "rgdppdifnie",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "y020rx"
             },
             "fred": "y020rx1q020sbea"
@@ -1486,7 +1486,7 @@
         "quantity": {
             "edan": "qgdppdifr",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "a011ra"
             },
             "fred": "a011ra3q086sbea"
@@ -1494,7 +1494,7 @@
         "price": {
             "edan": "pgdppdifr",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b011rg"
             },
             "fred": "b011rg3q086sbea"
@@ -1502,7 +1502,7 @@
         "nominal": {
             "edan": "ngdppdifr",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a011rc"
             },
             "fred": "prfi"
@@ -1510,7 +1510,7 @@
         "real": {
             "edan": "rgdppdifr",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a011rx"
             },
             "fred": "prfic1"
@@ -1523,7 +1523,7 @@
         "nominal": {
             "edan": "ngdppdic",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a014rc"
             },
             "fred": "cbi"
@@ -1531,7 +1531,7 @@
         "real": {
             "edan": "rgdppdic",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a014rx"
             },
             "fred": "cbic1"
@@ -1544,7 +1544,7 @@
         "nominal": {
             "edan": "ngdppdicf",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "b018rc"
             },
             "fred": "b018rc1q027sbea"
@@ -1552,7 +1552,7 @@
         "real": {
             "edan": "rgdppdicf",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "b018rx"
             },
             "fred": "b018rx1q020sbea"
@@ -1565,7 +1565,7 @@
         "nominal": {
             "edan": "ngdppdicn",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a015rc"
             },
             "fred": "a015rc1q027sbea"
@@ -1573,7 +1573,7 @@
         "real": {
             "edan": "rgdppdicn",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a015rx"
             },
             "fred": "a015rx1q020sbea"
@@ -1586,7 +1586,7 @@
         "nominal": {
             "edan": "ngdpnx",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a019rc"
             },
             "fred": "netexp"
@@ -1594,7 +1594,7 @@
         "real": {
             "edan": "rgdpnx",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a019rx"
             },
             "fred": "netexc"
@@ -1607,7 +1607,7 @@
         "quantity": {
             "edan": "qgdpnxx",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b020ra"
             },
             "fred": "b020ra3q086sbea"
@@ -1615,7 +1615,7 @@
         "price": {
             "edan": "pgdpnxx",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b020rg"
             },
             "fred": "b020rg3q086sbea"
@@ -1623,7 +1623,7 @@
         "nominal": {
             "edan": "ngdpnxx",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "b020rc"
             },
             "fred": "expgs"
@@ -1631,7 +1631,7 @@
         "real": {
             "edan": "rgdpnxx",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a020rx"
             },
             "fred": "expgsc1"
@@ -1644,7 +1644,7 @@
         "quantity": {
             "edan": "qgdpnxxg",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b253ra"
             },
             "fred": "b253ra3q086sbea"
@@ -1652,7 +1652,7 @@
         "price": {
             "edan": "pgdpnxxg",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b253rg"
             },
             "fred": "b253rg3q086sbea"
@@ -1660,7 +1660,7 @@
         "nominal": {
             "edan": "ngdpnxxg",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a253rc"
             },
             "fred": "a253rc1q027sbea"
@@ -1668,7 +1668,7 @@
         "real": {
             "edan": "rgdpnxxg",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a253rx"
             },
             "fred": "a253rx1q020sbea"
@@ -1681,7 +1681,7 @@
         "quantity": {
             "edan": "qgdpnxxs",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b646ra"
             },
             "fred": "b646ra3q086sbea"
@@ -1689,7 +1689,7 @@
         "price": {
             "edan": "pgdpnxxs",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b646rg"
             },
             "fred": "b646rg3q086sbea"
@@ -1697,7 +1697,7 @@
         "nominal": {
             "edan": "ngdpnxxs",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a646rc"
             },
             "fred": "a646rc1q027sbea"
@@ -1705,7 +1705,7 @@
         "real": {
             "edan": "rgdpnxxs",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a646rx"
             },
             "fred": "a646rx1q020sbea"
@@ -1718,7 +1718,7 @@
         "quantity": {
             "edan": "qgdpnxm",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b021ra"
             },
             "fred": "b021ra3q086sbea"
@@ -1726,7 +1726,7 @@
         "price": {
             "edan": "pgdpnxm",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b021rg"
             },
             "fred": "b021rg3q086sbea"
@@ -1734,7 +1734,7 @@
         "nominal": {
             "edan": "ngdpnxm",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "b021rc"
             },
             "fred": "impgs"
@@ -1742,7 +1742,7 @@
         "real": {
             "edan": "rgdpnxm",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a021rx"
             },
             "fred": "impgsc1"
@@ -1755,7 +1755,7 @@
         "quantity": {
             "edan": "qgdpnxmg",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b255ra"
             },
             "fred": "b255ra3q086sbea"
@@ -1763,7 +1763,7 @@
         "price": {
             "edan": "pgdpnxmg",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b255rg"
             },
             "fred": "b255rg3q086sbea"
@@ -1771,7 +1771,7 @@
         "nominal": {
             "edan": "ngdpnxmg",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a255rc"
             },
             "fred": "a255rc1q027sbea"
@@ -1779,7 +1779,7 @@
         "real": {
             "edan": "rgdpnxmg",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a255rx"
             },
             "fred": "a255rx1q020sbea"
@@ -1792,7 +1792,7 @@
         "quantity": {
             "edan": "qgdpnxms",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b656ra"
             },
             "fred": "b656ra3q086sbea"
@@ -1800,7 +1800,7 @@
         "price": {
             "edan": "pgdpnxms",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b656rg"
             },
             "fred": "b656rg3q086sbea"
@@ -1808,7 +1808,7 @@
         "nominal": {
             "edan": "ngdpnxms",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "b656rc"
             },
             "fred": "b656rc1q027sbea"
@@ -1816,7 +1816,7 @@
         "real": {
             "edan": "rgdpnxms",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "b656rx"
             },
             "fred": "b656rx1q020sbea"
@@ -1829,7 +1829,7 @@
         "quantity": {
             "edan": "qgdpgov",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b822ra"
             },
             "fred": "b822ra3q086sbea"
@@ -1837,7 +1837,7 @@
         "price": {
             "edan": "pgdpgov",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b822rg"
             },
             "fred": "b822rg3q086sbea"
@@ -1845,7 +1845,7 @@
         "nominal": {
             "edan": "ngdpgov",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a822rc"
             },
             "fred": "gce"
@@ -1853,7 +1853,7 @@
         "real": {
             "edan": "rgdpgov",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a822rx"
             },
             "fred": "gcec1"
@@ -1866,7 +1866,7 @@
         "quantity": {
             "edan": "qgdpgovf",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b823ra"
             },
             "fred": "b823ra3q086sbea"
@@ -1874,7 +1874,7 @@
         "price": {
             "edan": "pgdpgovf",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b823rg"
             },
             "fred": "b823rg3q086sbea"
@@ -1882,7 +1882,7 @@
         "nominal": {
             "edan": "ngdpgovf",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a823rc"
             },
             "fred": "fgce"
@@ -1890,7 +1890,7 @@
         "real": {
             "edan": "rgdpgovf",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a823rx"
             },
             "fred": "fgcec1"
@@ -1903,7 +1903,7 @@
         "quantity": {
             "edan": "qgdpgovfd",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b824ra"
             },
             "fred": "b824ra3q086sbea"
@@ -1911,7 +1911,7 @@
         "price": {
             "edan": "pgdpgovfd",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b824rg"
             },
             "fred": "b824rg3q086sbea"
@@ -1919,7 +1919,7 @@
         "nominal": {
             "edan": "ngdpgovfd",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a824rc"
             },
             "fred": "fdefx"
@@ -1927,7 +1927,7 @@
         "real": {
             "edan": "rgdpgovfd",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a824rx"
             },
             "fred": "a824rx1q020sbea"
@@ -1940,7 +1940,7 @@
         "quantity": {
             "edan": "qgdpgovfdc",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "a997ra"
             },
             "fred": "a997ra3q086sbea"
@@ -1948,7 +1948,7 @@
         "price": {
             "edan": "pgdpgovfdc",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "a997rg"
             },
             "fred": "a997rg3q086sbea"
@@ -1956,7 +1956,7 @@
         "nominal": {
             "edan": "ngdpgovfdc",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a997rc"
             },
             "fred": "a997rc1q027sbea"
@@ -1964,7 +1964,7 @@
         "real": {
             "edan": "rgdpgovfdc",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a997rx"
             },
             "fred": "a997rx1q020sbea"
@@ -1977,7 +1977,7 @@
         "quantity": {
             "edan": "qgdpgovfdi",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b788ra"
             },
             "fred": "b788ra3q086sbea"
@@ -1985,7 +1985,7 @@
         "price": {
             "edan": "pgdpgovfdi",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b788rg"
             },
             "fred": "b788rg3q086sbea"
@@ -1993,7 +1993,7 @@
         "nominal": {
             "edan": "ngdpgovfdi",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a788rc"
             },
             "fred": "dgi"
@@ -2001,7 +2001,7 @@
         "real": {
             "edan": "rgdpgovfdi",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a788rx"
             },
             "fred": "dgic96"
@@ -2014,7 +2014,7 @@
         "quantity": {
             "edan": "qgdpgovfn",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b825ra"
             },
             "fred": "b825ra3q086sbea"
@@ -2022,7 +2022,7 @@
         "price": {
             "edan": "pgdpgovfn",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b825rg"
             },
             "fred": "b825rg3q086sbea"
@@ -2030,7 +2030,7 @@
         "nominal": {
             "edan": "ngdpgovfn",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a825rc"
             },
             "fred": "fndefx"
@@ -2038,7 +2038,7 @@
         "real": {
             "edan": "rgdpgovfn",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a825rx"
             },
             "fred": "a825rx1q020sbea"
@@ -2051,7 +2051,7 @@
         "quantity": {
             "edan": "qgdpgovfnc",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "a542ra"
             },
             "fred": "a542ra3q086sbea"
@@ -2059,7 +2059,7 @@
         "price": {
             "edan": "pgdpgovfnc",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "a542rg"
             },
             "fred": "a542rg3q086sbea"
@@ -2067,7 +2067,7 @@
         "nominal": {
             "edan": "ngdpgovfnc",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a542rc"
             },
             "fred": "a542rc1q027sbea"
@@ -2075,7 +2075,7 @@
         "real": {
             "edan": "rgdpgovfnc",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a542rx"
             },
             "fred": "a542rx1q020sbea"
@@ -2088,7 +2088,7 @@
         "quantity": {
             "edan": "qgdpgovfni",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b798ra"
             },
             "fred": "b798ra3q086sbea"
@@ -2096,7 +2096,7 @@
         "price": {
             "edan": "pgdpgovfni",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b798rg"
             },
             "fred": "b798rg3q086sbea"
@@ -2104,7 +2104,7 @@
         "nominal": {
             "edan": "ngdpgovfni",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a798rc"
             },
             "fred": "ndgi"
@@ -2112,7 +2112,7 @@
         "real": {
             "edan": "rgdpgovfni",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a798rx"
             },
             "fred": "ndgic96"
@@ -2125,7 +2125,7 @@
         "quantity": {
             "edan": "qgdpgovs",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b829ra"
             },
             "fred": "b829ra3q086sbea"
@@ -2133,7 +2133,7 @@
         "price": {
             "edan": "pgdpgovs",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b829rg"
             },
             "fred": "b829rg3q086sbea"
@@ -2141,7 +2141,7 @@
         "nominal": {
             "edan": "ngdpgovs",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a829rc"
             },
             "fred": "slce"
@@ -2149,7 +2149,7 @@
         "real": {
             "edan": "rgdpgovs",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a829rx"
             },
             "fred": "slcec1"
@@ -2162,7 +2162,7 @@
         "quantity": {
             "edan": "qgdpgovsc",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "a991ra"
             },
             "fred": "a991ra3q086sbea"
@@ -2170,7 +2170,7 @@
         "price": {
             "edan": "pgdpgovsc",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "a991rg"
             },
             "fred": "a991rg3q086sbea"
@@ -2178,7 +2178,7 @@
         "nominal": {
             "edan": "ngdpgovsc",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a991rc"
             },
             "fred": "a991rc1q027sbea"
@@ -2186,7 +2186,7 @@
         "real": {
             "edan": "rgdpgovsc",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a991rx"
             },
             "fred": "a991rx1q020sbea"
@@ -2199,7 +2199,7 @@
         "quantity": {
             "edan": "qgdpgovsi",
             "bea": {
-                "tablename": "t10503",
+                "table_name": "t10503",
                 "series_name": "b799ra"
             },
             "fred": "b799ra3q086sbea"
@@ -2207,7 +2207,7 @@
         "price": {
             "edan": "pgdpgovsi",
             "bea": {
-                "tablename": "t10504",
+                "table_name": "t10504",
                 "series_name": "b799rg"
             },
             "fred": "b799rg3q086sbea"
@@ -2215,7 +2215,7 @@
         "nominal": {
             "edan": "ngdpgovsi",
             "bea": {
-                "tablename": "t10505",
+                "table_name": "t10505",
                 "series_name": "a799rc"
             },
             "fred": "slinv"
@@ -2223,7 +2223,7 @@
         "real": {
             "edan": "rgdpgovsi",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "a799rx"
             },
             "fred": "slinvc96"
@@ -2236,7 +2236,7 @@
         "real": {
             "edan": "rgdpres",
             "bea": {
-                "tablename": "t10506",
+                "table_name": "t10506",
                 "series_name": "ar05rx"
             },
             "fred": "ar05rx1q020sbea"
