@@ -95,10 +95,7 @@ def translate(
 				id_ = ensure_hashable(meas_sources.pop(source))
 				aliases = [ensure_hashable(v) for v in meas_sources.values()]
 
-				if len(aliases) == 1:
-					funnel_dict[id_] = aliases[0]
-				else:
-					funnel_dict[id_] = aliases
+				funnel_dict[id_] = aliases
 			except KeyError:
 				pass
 
