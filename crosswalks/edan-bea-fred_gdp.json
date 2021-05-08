@@ -1,10 +1,11 @@
 {
-    "gdp": {
+    "0": {
         "bea_name": "Gross domestic product",
         "table_row": 1,
         "level": 0,
         "quantity": {
             "edan": "qgdp",
+            "edan_simple": "qgdp",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "a191ra"
@@ -13,6 +14,7 @@
         },
         "price": {
             "edan": "pgdp",
+            "edan_simple": "pgdp",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "a191rg"
@@ -21,6 +23,7 @@
         },
         "nominal": {
             "edan": "ngdp",
+            "edan_simple": "ngdp",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a191rc"
@@ -29,6 +32,7 @@
         },
         "real": {
             "edan": "rgdp",
+            "edan_simple": "rgdp",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a191rx"
@@ -36,12 +40,13 @@
             "fred": "gdpc1"
         }
     },
-    "gdp:pce": {
+    "1": {
         "bea_name": "Personal consumption expenditures",
         "table_row": 2,
         "level": 1,
         "quantity": {
-            "edan": "qgdppce",
+            "edan": "qgdp:pce",
+            "edan_simple": "qgdppce",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "dpcera"
@@ -49,7 +54,8 @@
             "fred": "dpcera3q086sbea"
         },
         "price": {
-            "edan": "pgdppce",
+            "edan": "pgdp:pce",
+            "edan_simple": "pgdppce",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "dpcerg"
@@ -57,7 +63,8 @@
             "fred": "pcectpi"
         },
         "nominal": {
-            "edan": "ngdppce",
+            "edan": "ngdp:pce",
+            "edan_simple": "ngdppce",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "dpcerc"
@@ -65,7 +72,8 @@
             "fred": "pcec"
         },
         "real": {
-            "edan": "rgdppce",
+            "edan": "rgdp:pce",
+            "edan_simple": "rgdppce",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "dpcerx"
@@ -73,12 +81,13 @@
             "fred": "pcecc96"
         }
     },
-    "gdp:pce:g": {
+    "2": {
         "bea_name": "Goods",
         "table_row": 3,
         "level": 2,
         "quantity": {
-            "edan": "qgdppceg",
+            "edan": "qgdp:pce:g",
+            "edan_simple": "qgdppceg",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "dgdsra"
@@ -86,7 +95,8 @@
             "fred": "dgdsra3q086sbea"
         },
         "price": {
-            "edan": "pgdppceg",
+            "edan": "pgdp:pce:g",
+            "edan_simple": "pgdppceg",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "dgdsrg"
@@ -94,7 +104,8 @@
             "fred": "dgdsrg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdppceg",
+            "edan": "ngdp:pce:g",
+            "edan_simple": "ngdppceg",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "dgdsrc"
@@ -102,7 +113,8 @@
             "fred": "dgdsrc1q027sbea"
         },
         "real": {
-            "edan": "rgdppceg",
+            "edan": "rgdp:pce:g",
+            "edan_simple": "rgdppceg",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "dgdsrx"
@@ -110,12 +122,13 @@
             "fred": "dgdsrx1q020sbea"
         }
     },
-    "gdp:pce:g:d": {
+    "3": {
         "bea_name": "Durable goods",
         "table_row": 4,
         "level": 3,
         "quantity": {
-            "edan": "qgdppcegd",
+            "edan": "qgdp:pce:g:d",
+            "edan_simple": "qgdppcegd",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "ddurra"
@@ -123,7 +136,8 @@
             "fred": "ddurra3q086sbea"
         },
         "price": {
-            "edan": "pgdppcegd",
+            "edan": "pgdp:pce:g:d",
+            "edan_simple": "pgdppcegd",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "ddurrg"
@@ -131,7 +145,8 @@
             "fred": "ddurrg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdppcegd",
+            "edan": "ngdp:pce:g:d",
+            "edan_simple": "ngdppcegd",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "ddurrc"
@@ -139,7 +154,8 @@
             "fred": "pcdg"
         },
         "real": {
-            "edan": "rgdppcegd",
+            "edan": "rgdp:pce:g:d",
+            "edan_simple": "rgdppcegd",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "ddurrx"
@@ -147,12 +163,13 @@
             "fred": "pcdgcc96"
         }
     },
-    "gdp:pce:g:n": {
+    "4": {
         "bea_name": "Nondurable goods",
         "table_row": 5,
         "level": 3,
         "quantity": {
-            "edan": "qgdppcegn",
+            "edan": "qgdp:pce:g:n",
+            "edan_simple": "qgdppcegn",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "dndgra"
@@ -160,7 +177,8 @@
             "fred": "dndgra3q086sbea"
         },
         "price": {
-            "edan": "pgdppcegn",
+            "edan": "pgdp:pce:g:n",
+            "edan_simple": "pgdppcegn",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "dndgrg"
@@ -168,7 +186,8 @@
             "fred": "dndgrg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdppcegn",
+            "edan": "ngdp:pce:g:n",
+            "edan_simple": "ngdppcegn",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "dndgrc"
@@ -176,7 +195,8 @@
             "fred": "pcnd"
         },
         "real": {
-            "edan": "rgdppcegn",
+            "edan": "rgdp:pce:g:n",
+            "edan_simple": "rgdppcegn",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "dndgrx"
@@ -184,12 +204,13 @@
             "fred": "pcndgc96"
         }
     },
-    "gdp:pce:s": {
+    "5": {
         "bea_name": "Services",
         "table_row": 6,
         "level": 2,
         "quantity": {
-            "edan": "qgdppces",
+            "edan": "qgdp:pce:s",
+            "edan_simple": "qgdppces",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "dserra"
@@ -197,7 +218,8 @@
             "fred": "dserra3q086sbea"
         },
         "price": {
-            "edan": "pgdppces",
+            "edan": "pgdp:pce:s",
+            "edan_simple": "pgdppces",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "dserrg"
@@ -205,7 +227,8 @@
             "fred": "dserrg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdppces",
+            "edan": "ngdp:pce:s",
+            "edan_simple": "ngdppces",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "dserrc"
@@ -213,7 +236,8 @@
             "fred": "pcesv"
         },
         "real": {
-            "edan": "rgdppces",
+            "edan": "rgdp:pce:s",
+            "edan_simple": "rgdppces",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "dserrx"
@@ -221,12 +245,13 @@
             "fred": "pcesvc96"
         }
     },
-    "gdp:pdi": {
+    "6": {
         "bea_name": "Gross private domestic investment",
         "table_row": 7,
         "level": 1,
         "quantity": {
-            "edan": "qgdppdi",
+            "edan": "qgdp:pdi",
+            "edan_simple": "qgdppdi",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "a006ra"
@@ -234,7 +259,8 @@
             "fred": "a006ra3q086sbea"
         },
         "price": {
-            "edan": "pgdppdi",
+            "edan": "pgdp:pdi",
+            "edan_simple": "pgdppdi",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b006rg"
@@ -242,7 +268,8 @@
             "fred": "gpdictpi"
         },
         "nominal": {
-            "edan": "ngdppdi",
+            "edan": "ngdp:pdi",
+            "edan_simple": "ngdppdi",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a006rc"
@@ -250,7 +277,8 @@
             "fred": "gpdi"
         },
         "real": {
-            "edan": "rgdppdi",
+            "edan": "rgdp:pdi",
+            "edan_simple": "rgdppdi",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a006rx"
@@ -258,12 +286,13 @@
             "fred": "gpdic1"
         }
     },
-    "gdp:pdi:f": {
+    "7": {
         "bea_name": "Fixed investment",
         "table_row": 8,
         "level": 2,
         "quantity": {
-            "edan": "qgdppdif",
+            "edan": "qgdp:pdi:f",
+            "edan_simple": "qgdppdif",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "a007ra"
@@ -271,7 +300,8 @@
             "fred": "a007ra3q086sbea"
         },
         "price": {
-            "edan": "pgdppdif",
+            "edan": "pgdp:pdi:f",
+            "edan_simple": "pgdppdif",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b007rg"
@@ -279,7 +309,8 @@
             "fred": "b007rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdppdif",
+            "edan": "ngdp:pdi:f",
+            "edan_simple": "ngdppdif",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a007rc"
@@ -287,7 +318,8 @@
             "fred": "fpi"
         },
         "real": {
-            "edan": "rgdppdif",
+            "edan": "rgdp:pdi:f",
+            "edan_simple": "rgdppdif",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a007rx"
@@ -295,12 +327,13 @@
             "fred": "fpic1"
         }
     },
-    "gdp:pdi:f:n": {
+    "8": {
         "bea_name": "Nonresidential",
         "table_row": 9,
         "level": 3,
         "quantity": {
-            "edan": "qgdppdifn",
+            "edan": "qgdp:pdi:f:n",
+            "edan_simple": "qgdppdifn",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "a008ra"
@@ -308,7 +341,8 @@
             "fred": "a008ra3q086sbea"
         },
         "price": {
-            "edan": "pgdppdifn",
+            "edan": "pgdp:pdi:f:n",
+            "edan_simple": "pgdppdifn",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b008rg"
@@ -316,7 +350,8 @@
             "fred": "b008rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdppdifn",
+            "edan": "ngdp:pdi:f:n",
+            "edan_simple": "ngdppdifn",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a008rc"
@@ -324,7 +359,8 @@
             "fred": "pnfi"
         },
         "real": {
-            "edan": "rgdppdifn",
+            "edan": "rgdp:pdi:f:n",
+            "edan_simple": "rgdppdifn",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a008rx"
@@ -332,12 +368,13 @@
             "fred": "pnfic1"
         }
     },
-    "gdp:pdi:f:n:s": {
+    "9": {
         "bea_name": "Structures",
         "table_row": 10,
         "level": 4,
         "quantity": {
-            "edan": "qgdppdifns",
+            "edan": "qgdp:pdi:f:n:s",
+            "edan_simple": "qgdppdifns",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "b009ra"
@@ -345,7 +382,8 @@
             "fred": "b009ra3q086sbea"
         },
         "price": {
-            "edan": "pgdppdifns",
+            "edan": "pgdp:pdi:f:n:s",
+            "edan_simple": "pgdppdifns",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b009rg"
@@ -353,7 +391,8 @@
             "fred": "b009rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdppdifns",
+            "edan": "ngdp:pdi:f:n:s",
+            "edan_simple": "ngdppdifns",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "b009rc"
@@ -361,7 +400,8 @@
             "fred": "b009rc1q027sbea"
         },
         "real": {
-            "edan": "rgdppdifns",
+            "edan": "rgdp:pdi:f:n:s",
+            "edan_simple": "rgdppdifns",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "b009rx"
@@ -369,12 +409,13 @@
             "fred": "b009rx1q020sbea"
         }
     },
-    "gdp:pdi:f:n:e": {
+    "10": {
         "bea_name": "Equipment",
         "table_row": 11,
         "level": 4,
         "quantity": {
-            "edan": "qgdppdifne",
+            "edan": "qgdp:pdi:f:n:e",
+            "edan_simple": "qgdppdifne",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "y033ra"
@@ -382,7 +423,8 @@
             "fred": "y033ra3q086sbea"
         },
         "price": {
-            "edan": "pgdppdifne",
+            "edan": "pgdp:pdi:f:n:e",
+            "edan_simple": "pgdppdifne",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "y033rg"
@@ -390,7 +432,8 @@
             "fred": "y033rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdppdifne",
+            "edan": "ngdp:pdi:f:n:e",
+            "edan_simple": "ngdppdifne",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "y033rc"
@@ -398,7 +441,8 @@
             "fred": "y033rc1q027sbea"
         },
         "real": {
-            "edan": "rgdppdifne",
+            "edan": "rgdp:pdi:f:n:e",
+            "edan_simple": "rgdppdifne",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "y033rx"
@@ -406,12 +450,13 @@
             "fred": "y033rx1q020sbea"
         }
     },
-    "gdp:pdi:f:n:i": {
+    "11": {
         "bea_name": "Intellectual property products",
         "table_row": 12,
         "level": 4,
         "quantity": {
-            "edan": "qgdppdifni",
+            "edan": "qgdp:pdi:f:n:i",
+            "edan_simple": "qgdppdifni",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "y001ra"
@@ -419,7 +464,8 @@
             "fred": "y001ra3q086sbea"
         },
         "price": {
-            "edan": "pgdppdifni",
+            "edan": "pgdp:pdi:f:n:i",
+            "edan_simple": "pgdppdifni",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "y001rg"
@@ -427,7 +473,8 @@
             "fred": "y001rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdppdifni",
+            "edan": "ngdp:pdi:f:n:i",
+            "edan_simple": "ngdppdifni",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "y001rc"
@@ -435,7 +482,8 @@
             "fred": "y001rc1q027sbea"
         },
         "real": {
-            "edan": "rgdppdifni",
+            "edan": "rgdp:pdi:f:n:i",
+            "edan_simple": "rgdppdifni",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "y001rx"
@@ -443,12 +491,13 @@
             "fred": "y001rx1q020sbea"
         }
     },
-    "gdp:pdi:f:r": {
+    "12": {
         "bea_name": "Residential",
         "table_row": 13,
         "level": 3,
         "quantity": {
-            "edan": "qgdppdifr",
+            "edan": "qgdp:pdi:f:r",
+            "edan_simple": "qgdppdifr",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "a011ra"
@@ -456,7 +505,8 @@
             "fred": "a011ra3q086sbea"
         },
         "price": {
-            "edan": "pgdppdifr",
+            "edan": "pgdp:pdi:f:r",
+            "edan_simple": "pgdppdifr",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b011rg"
@@ -464,7 +514,8 @@
             "fred": "b011rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdppdifr",
+            "edan": "ngdp:pdi:f:r",
+            "edan_simple": "ngdppdifr",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a011rc"
@@ -472,7 +523,8 @@
             "fred": "prfi"
         },
         "real": {
-            "edan": "rgdppdifr",
+            "edan": "rgdp:pdi:f:r",
+            "edan_simple": "rgdppdifr",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a011rx"
@@ -480,12 +532,13 @@
             "fred": "prfic1"
         }
     },
-    "gdp:pdi:c": {
+    "13": {
         "bea_name": "Change in private inventories",
         "table_row": 14,
         "level": 2,
         "nominal": {
-            "edan": "ngdppdic",
+            "edan": "ngdp:pdi:c",
+            "edan_simple": "ngdppdic",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a014rc"
@@ -493,7 +546,8 @@
             "fred": "cbi"
         },
         "real": {
-            "edan": "rgdppdic",
+            "edan": "rgdp:pdi:c",
+            "edan_simple": "rgdppdic",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a014rx"
@@ -501,12 +555,13 @@
             "fred": "cbic1"
         }
     },
-    "gdp:nx": {
+    "14": {
         "bea_name": "Net exports of goods and services",
         "table_row": 15,
         "level": 1,
         "nominal": {
-            "edan": "ngdpnx",
+            "edan": "ngdp:nx",
+            "edan_simple": "ngdpnx",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a019rc"
@@ -514,7 +569,8 @@
             "fred": "netexp"
         },
         "real": {
-            "edan": "rgdpnx",
+            "edan": "rgdp:nx",
+            "edan_simple": "rgdpnx",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a019rx"
@@ -522,12 +578,13 @@
             "fred": "netexc"
         }
     },
-    "gdp:nx+x": {
+    "15": {
         "bea_name": "Exports",
         "table_row": 16,
         "level": 2,
         "quantity": {
-            "edan": "qgdpnxx",
+            "edan": "qgdp:nx+x",
+            "edan_simple": "qgdpnxx",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "b020ra"
@@ -535,7 +592,8 @@
             "fred": "b020ra3q086sbea"
         },
         "price": {
-            "edan": "pgdpnxx",
+            "edan": "pgdp:nx+x",
+            "edan_simple": "pgdpnxx",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b020rg"
@@ -543,7 +601,8 @@
             "fred": "b020rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdpnxx",
+            "edan": "ngdp:nx+x",
+            "edan_simple": "ngdpnxx",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "b020rc"
@@ -551,7 +610,8 @@
             "fred": "expgs"
         },
         "real": {
-            "edan": "rgdpnxx",
+            "edan": "rgdp:nx+x",
+            "edan_simple": "rgdpnxx",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a020rx"
@@ -559,12 +619,13 @@
             "fred": "expgsc1"
         }
     },
-    "gdp:nx+x:g": {
+    "16": {
         "bea_name": "Exports: Goods",
         "table_row": 17,
         "level": 3,
         "quantity": {
-            "edan": "qgdpnxxg",
+            "edan": "qgdp:nx+x:g",
+            "edan_simple": "qgdpnxxg",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "b253ra"
@@ -572,7 +633,8 @@
             "fred": "b253ra3q086sbea"
         },
         "price": {
-            "edan": "pgdpnxxg",
+            "edan": "pgdp:nx+x:g",
+            "edan_simple": "pgdpnxxg",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b253rg"
@@ -580,7 +642,8 @@
             "fred": "b253rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdpnxxg",
+            "edan": "ngdp:nx+x:g",
+            "edan_simple": "ngdpnxxg",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a253rc"
@@ -588,7 +651,8 @@
             "fred": "a253rc1q027sbea"
         },
         "real": {
-            "edan": "rgdpnxxg",
+            "edan": "rgdp:nx+x:g",
+            "edan_simple": "rgdpnxxg",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a253rx"
@@ -596,12 +660,13 @@
             "fred": "a253rx1q020sbea"
         }
     },
-    "gdp:nx+x:s": {
+    "17": {
         "bea_name": "Exports: Services",
         "table_row": 18,
         "level": 3,
         "quantity": {
-            "edan": "qgdpnxxs",
+            "edan": "qgdp:nx+x:s",
+            "edan_simple": "qgdpnxxs",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "b646ra"
@@ -609,7 +674,8 @@
             "fred": "b646ra3q086sbea"
         },
         "price": {
-            "edan": "pgdpnxxs",
+            "edan": "pgdp:nx+x:s",
+            "edan_simple": "pgdpnxxs",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b646rg"
@@ -617,7 +683,8 @@
             "fred": "b646rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdpnxxs",
+            "edan": "ngdp:nx+x:s",
+            "edan_simple": "ngdpnxxs",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a646rc"
@@ -625,7 +692,8 @@
             "fred": "a646rc1q027sbea"
         },
         "real": {
-            "edan": "rgdpnxxs",
+            "edan": "rgdp:nx+x:s",
+            "edan_simple": "rgdpnxxs",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a646rx"
@@ -633,12 +701,13 @@
             "fred": "a646rx1q020sbea"
         }
     },
-    "gdp:nx-m": {
+    "18": {
         "bea_name": "Imports",
         "table_row": 19,
         "level": 2,
         "quantity": {
-            "edan": "qgdpnxm",
+            "edan": "qgdp:nx-m",
+            "edan_simple": "qgdpnxm",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "b021ra"
@@ -646,7 +715,8 @@
             "fred": "b021ra3q086sbea"
         },
         "price": {
-            "edan": "pgdpnxm",
+            "edan": "pgdp:nx-m",
+            "edan_simple": "pgdpnxm",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b021rg"
@@ -654,7 +724,8 @@
             "fred": "b021rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdpnxm",
+            "edan": "ngdp:nx-m",
+            "edan_simple": "ngdpnxm",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "b021rc"
@@ -662,7 +733,8 @@
             "fred": "impgs"
         },
         "real": {
-            "edan": "rgdpnxm",
+            "edan": "rgdp:nx-m",
+            "edan_simple": "rgdpnxm",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a021rx"
@@ -670,12 +742,13 @@
             "fred": "impgsc1"
         }
     },
-    "gdp:nx-m:g": {
+    "19": {
         "bea_name": "Imports: Goods",
         "table_row": 20,
         "level": 3,
         "quantity": {
-            "edan": "qgdpnxmg",
+            "edan": "qgdp:nx-m:g",
+            "edan_simple": "qgdpnxmg",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "b255ra"
@@ -683,7 +756,8 @@
             "fred": "b255ra3q086sbea"
         },
         "price": {
-            "edan": "pgdpnxmg",
+            "edan": "pgdp:nx-m:g",
+            "edan_simple": "pgdpnxmg",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b255rg"
@@ -691,7 +765,8 @@
             "fred": "b255rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdpnxmg",
+            "edan": "ngdp:nx-m:g",
+            "edan_simple": "ngdpnxmg",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a255rc"
@@ -699,7 +774,8 @@
             "fred": "a255rc1q027sbea"
         },
         "real": {
-            "edan": "rgdpnxmg",
+            "edan": "rgdp:nx-m:g",
+            "edan_simple": "rgdpnxmg",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a255rx"
@@ -707,12 +783,13 @@
             "fred": "a255rx1q020sbea"
         }
     },
-    "gdp:nx-m:s": {
+    "20": {
         "bea_name": "Imports: Services",
         "table_row": 21,
         "level": 3,
         "quantity": {
-            "edan": "qgdpnxms",
+            "edan": "qgdp:nx-m:s",
+            "edan_simple": "qgdpnxms",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "b656ra"
@@ -720,7 +797,8 @@
             "fred": "b656ra3q086sbea"
         },
         "price": {
-            "edan": "pgdpnxms",
+            "edan": "pgdp:nx-m:s",
+            "edan_simple": "pgdpnxms",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b656rg"
@@ -728,7 +806,8 @@
             "fred": "b656rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdpnxms",
+            "edan": "ngdp:nx-m:s",
+            "edan_simple": "ngdpnxms",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "b656rc"
@@ -736,7 +815,8 @@
             "fred": "b656rc1q027sbea"
         },
         "real": {
-            "edan": "rgdpnxms",
+            "edan": "rgdp:nx-m:s",
+            "edan_simple": "rgdpnxms",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "b656rx"
@@ -744,12 +824,13 @@
             "fred": "b656rx1q020sbea"
         }
     },
-    "gdp:gov": {
+    "21": {
         "bea_name": "Government consumption expenditures and gross investment",
         "table_row": 22,
         "level": 1,
         "quantity": {
-            "edan": "qgdpgov",
+            "edan": "qgdp:gov",
+            "edan_simple": "qgdpgov",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "b822ra"
@@ -757,7 +838,8 @@
             "fred": "b822ra3q086sbea"
         },
         "price": {
-            "edan": "pgdpgov",
+            "edan": "pgdp:gov",
+            "edan_simple": "pgdpgov",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b822rg"
@@ -765,7 +847,8 @@
             "fred": "b822rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdpgov",
+            "edan": "ngdp:gov",
+            "edan_simple": "ngdpgov",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a822rc"
@@ -773,7 +856,8 @@
             "fred": "gce"
         },
         "real": {
-            "edan": "rgdpgov",
+            "edan": "rgdp:gov",
+            "edan_simple": "rgdpgov",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a822rx"
@@ -781,12 +865,13 @@
             "fred": "gcec1"
         }
     },
-    "gdp:gov:f": {
+    "22": {
         "bea_name": "Federal",
         "table_row": 23,
         "level": 2,
         "quantity": {
-            "edan": "qgdpgovf",
+            "edan": "qgdp:gov:f",
+            "edan_simple": "qgdpgovf",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "b823ra"
@@ -794,7 +879,8 @@
             "fred": "b823ra3q086sbea"
         },
         "price": {
-            "edan": "pgdpgovf",
+            "edan": "pgdp:gov:f",
+            "edan_simple": "pgdpgovf",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b823rg"
@@ -802,7 +888,8 @@
             "fred": "b823rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdpgovf",
+            "edan": "ngdp:gov:f",
+            "edan_simple": "ngdpgovf",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a823rc"
@@ -810,7 +897,8 @@
             "fred": "fgce"
         },
         "real": {
-            "edan": "rgdpgovf",
+            "edan": "rgdp:gov:f",
+            "edan_simple": "rgdpgovf",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a823rx"
@@ -818,12 +906,13 @@
             "fred": "fgcec1"
         }
     },
-    "gdp:gov:f:d": {
+    "23": {
         "bea_name": "National defense",
         "table_row": 24,
         "level": 3,
         "quantity": {
-            "edan": "qgdpgovfd",
+            "edan": "qgdp:gov:f:d",
+            "edan_simple": "qgdpgovfd",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "b824ra"
@@ -831,7 +920,8 @@
             "fred": "b824ra3q086sbea"
         },
         "price": {
-            "edan": "pgdpgovfd",
+            "edan": "pgdp:gov:f:d",
+            "edan_simple": "pgdpgovfd",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b824rg"
@@ -839,7 +929,8 @@
             "fred": "b824rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdpgovfd",
+            "edan": "ngdp:gov:f:d",
+            "edan_simple": "ngdpgovfd",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a824rc"
@@ -847,7 +938,8 @@
             "fred": "fdefx"
         },
         "real": {
-            "edan": "rgdpgovfd",
+            "edan": "rgdp:gov:f:d",
+            "edan_simple": "rgdpgovfd",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a824rx"
@@ -855,12 +947,13 @@
             "fred": "a824rx1q020sbea"
         }
     },
-    "gdp:gov:f:n": {
+    "24": {
         "bea_name": "Nondefense",
         "table_row": 25,
         "level": 3,
         "quantity": {
-            "edan": "qgdpgovfn",
+            "edan": "qgdp:gov:f:n",
+            "edan_simple": "qgdpgovfn",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "b825ra"
@@ -868,7 +961,8 @@
             "fred": "b825ra3q086sbea"
         },
         "price": {
-            "edan": "pgdpgovfn",
+            "edan": "pgdp:gov:f:n",
+            "edan_simple": "pgdpgovfn",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b825rg"
@@ -876,7 +970,8 @@
             "fred": "b825rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdpgovfn",
+            "edan": "ngdp:gov:f:n",
+            "edan_simple": "ngdpgovfn",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a825rc"
@@ -884,7 +979,8 @@
             "fred": "fndefx"
         },
         "real": {
-            "edan": "rgdpgovfn",
+            "edan": "rgdp:gov:f:n",
+            "edan_simple": "rgdpgovfn",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a825rx"
@@ -892,12 +988,13 @@
             "fred": "a825rx1q020sbea"
         }
     },
-    "gdp:gov:s": {
+    "25": {
         "bea_name": "State and local",
         "table_row": 26,
         "level": 2,
         "quantity": {
-            "edan": "qgdpgovs",
+            "edan": "qgdp:gov:s",
+            "edan_simple": "qgdpgovs",
             "bea": {
                 "table_name": "t10103",
                 "series_name": "b829ra"
@@ -905,7 +1002,8 @@
             "fred": "b829ra3q086sbea"
         },
         "price": {
-            "edan": "pgdpgovs",
+            "edan": "pgdp:gov:s",
+            "edan_simple": "pgdpgovs",
             "bea": {
                 "table_name": "t10104",
                 "series_name": "b829rg"
@@ -913,7 +1011,8 @@
             "fred": "b829rg3q086sbea"
         },
         "nominal": {
-            "edan": "ngdpgovs",
+            "edan": "ngdp:gov:s",
+            "edan_simple": "ngdpgovs",
             "bea": {
                 "table_name": "t10105",
                 "series_name": "a829rc"
@@ -921,7 +1020,8 @@
             "fred": "slce"
         },
         "real": {
-            "edan": "rgdpgovs",
+            "edan": "rgdp:gov:s",
+            "edan_simple": "rgdpgovs",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a829rx"
@@ -929,12 +1029,13 @@
             "fred": "slcec1"
         }
     },
-    "gdp:res": {
+    "26": {
         "bea_name": "Residual",
         "table_row": 27,
         "level": 1,
         "real": {
-            "edan": "rgdpres",
+            "edan": "rgdp:res",
+            "edan_simple": "rgdpres",
             "bea": {
                 "table_name": "t10106",
                 "series_name": "a960rx"
