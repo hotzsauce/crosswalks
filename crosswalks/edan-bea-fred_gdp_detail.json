@@ -1,5 +1,5 @@
 {
-    "0": {
+    "gdp": {
         "bea_name": "Gross domestic product",
         "table_row": 1,
         "level": 0,
@@ -40,7 +40,7 @@
             "fred": "gdpc1"
         }
     },
-    "1": {
+    "gdp:pce": {
         "bea_name": "Personal consumption expenditures",
         "table_row": 2,
         "level": 1,
@@ -81,7 +81,7 @@
             "fred": "pcecc96"
         }
     },
-    "2": {
+    "gdp:pce:g": {
         "bea_name": "Goods",
         "table_row": 3,
         "level": 2,
@@ -122,7 +122,7 @@
             "fred": "dgdsrx1q020sbea"
         }
     },
-    "3": {
+    "gdp:pce:g:d": {
         "bea_name": "Durable goods",
         "table_row": 4,
         "level": 3,
@@ -163,7 +163,7 @@
             "fred": "pcdgcc96"
         }
     },
-    "4": {
+    "gdp:pce:g:d:v": {
         "bea_name": "Motor vehicles and parts",
         "table_row": 5,
         "level": 4,
@@ -204,7 +204,7 @@
             "fred": "dmotrx1q020sbea"
         }
     },
-    "5": {
+    "gdp:pce:g:d:f": {
         "bea_name": "Furnishings and durable household equipment",
         "table_row": 6,
         "level": 4,
@@ -245,7 +245,7 @@
             "fred": "dfdhrx1q020sbea"
         }
     },
-    "6": {
+    "gdp:pce:g:d:r": {
         "bea_name": "Recreational goods and vehicles",
         "table_row": 7,
         "level": 4,
@@ -286,7 +286,7 @@
             "fred": "dreqrx1q020sbea"
         }
     },
-    "7": {
+    "gdp:pce:g:d:o": {
         "bea_name": "Other durable goods",
         "table_row": 8,
         "level": 4,
@@ -327,7 +327,7 @@
             "fred": "dodgrx1q020sbea"
         }
     },
-    "8": {
+    "gdp:pce:g:n": {
         "bea_name": "Nondurable goods",
         "table_row": 9,
         "level": 3,
@@ -368,7 +368,7 @@
             "fred": "pcndgc96"
         }
     },
-    "9": {
+    "gdp:pce:g:n:f": {
         "bea_name": "Food and beverages purchased for off-premises consumption",
         "table_row": 10,
         "level": 4,
@@ -409,7 +409,7 @@
             "fred": "dfxarx1q020sbea"
         }
     },
-    "10": {
+    "gdp:pce:g:n:c": {
         "bea_name": "Clothing and footwear",
         "table_row": 11,
         "level": 4,
@@ -450,7 +450,7 @@
             "fred": "dclorx1q020sbea"
         }
     },
-    "11": {
+    "gdp:pce:g:n:g": {
         "bea_name": "Gasoline and other energy goods",
         "table_row": 12,
         "level": 4,
@@ -491,7 +491,7 @@
             "fred": "dgoerx1q020sbea"
         }
     },
-    "12": {
+    "gdp:pce:g:n:o": {
         "bea_name": "Other nondurable goods",
         "table_row": 13,
         "level": 4,
@@ -532,7 +532,7 @@
             "fred": "dongrx1q020sbea"
         }
     },
-    "13": {
+    "gdp:pce:s": {
         "bea_name": "Services",
         "table_row": 14,
         "level": 2,
@@ -573,7 +573,7 @@
             "fred": "pcesvc96"
         }
     },
-    "14": {
+    "gdp:pce:s:h": {
         "bea_name": "Household consumption expenditures (for services)",
         "table_row": 15,
         "level": 3,
@@ -614,7 +614,7 @@
             "fred": "dhcerx1q020sbea"
         }
     },
-    "15": {
+    "gdp:pce:s:h:h": {
         "bea_name": "Housing and utilities",
         "table_row": 16,
         "level": 4,
@@ -655,7 +655,7 @@
             "fred": "dhutrx1q020sbea"
         }
     },
-    "16": {
+    "gdp:pce:s:h:c": {
         "bea_name": "Health care",
         "table_row": 17,
         "level": 4,
@@ -696,7 +696,7 @@
             "fred": "dhlcrx1q020sbea"
         }
     },
-    "17": {
+    "gdp:pce:s:h:t": {
         "bea_name": "Transportation services",
         "table_row": 18,
         "level": 4,
@@ -737,7 +737,7 @@
             "fred": "dtrsrx1q020sbea"
         }
     },
-    "18": {
+    "gdp:pce:s:h:r": {
         "bea_name": "Recreation services",
         "table_row": 19,
         "level": 4,
@@ -778,7 +778,7 @@
             "fred": "drcarx1q020sbea"
         }
     },
-    "19": {
+    "gdp:pce:s:h:f": {
         "bea_name": "Food services and accommodations",
         "table_row": 20,
         "level": 4,
@@ -819,7 +819,7 @@
             "fred": "dfsarx1q020sbea"
         }
     },
-    "20": {
+    "gdp:pce:s:h:i": {
         "bea_name": "Financial services and insurance",
         "table_row": 21,
         "level": 4,
@@ -860,7 +860,7 @@
             "fred": "difsrx1q020sbea"
         }
     },
-    "21": {
+    "gdp:pce:s:h:o": {
         "bea_name": "Other services",
         "table_row": 22,
         "level": 4,
@@ -901,7 +901,7 @@
             "fred": "dotsrx1q020sbea"
         }
     },
-    "22": {
+    "gdp:pce:s:n": {
         "bea_name": "Final consumption expenditures of nonprofit institutions serving households (NPISHs)",
         "table_row": 23,
         "level": 3,
@@ -942,7 +942,7 @@
             "fred": "dnpirx1q020sbea"
         }
     },
-    "23": {
+    "gdp:pce:s:n+o": {
         "bea_name": "Gross output of nonprofit institutions",
         "table_row": 24,
         "level": 4,
@@ -983,7 +983,7 @@
             "fred": "dnperx1q020sbea"
         }
     },
-    "24": {
+    "gdp:pce:s:n-l": {
         "bea_name": "Less: Receipts from sales of goods and services by nonprofit institutions",
         "table_row": 25,
         "level": 4,
@@ -1024,7 +1024,7 @@
             "fred": "dnpsrx1q020sbea"
         }
     },
-    "25": {
+    "gdp:pdi": {
         "bea_name": "Gross private domestic investment",
         "table_row": 26,
         "level": 1,
@@ -1065,7 +1065,7 @@
             "fred": "gpdic1"
         }
     },
-    "26": {
+    "gdp:pdi:f": {
         "bea_name": "Fixed investment",
         "table_row": 27,
         "level": 2,
@@ -1106,7 +1106,7 @@
             "fred": "fpic1"
         }
     },
-    "27": {
+    "gdp:pdi:f:n": {
         "bea_name": "Nonresidential",
         "table_row": 28,
         "level": 3,
@@ -1147,7 +1147,7 @@
             "fred": "pnfic1"
         }
     },
-    "28": {
+    "gdp:pdi:f:n:s": {
         "bea_name": "Structures",
         "table_row": 29,
         "level": 4,
@@ -1188,7 +1188,7 @@
             "fred": "b009rx1q020sbea"
         }
     },
-    "29": {
+    "gdp:pdi:f:n:e": {
         "bea_name": "Equipment",
         "table_row": 30,
         "level": 4,
@@ -1229,7 +1229,7 @@
             "fred": "y033rx1q020sbea"
         }
     },
-    "30": {
+    "gdp:pdi:f:n:e:i": {
         "bea_name": "Information processing equipment",
         "table_row": 31,
         "level": 5,
@@ -1270,7 +1270,7 @@
             "fred": "y034rx1q020sbea"
         }
     },
-    "31": {
+    "gdp:pdi:f:n:e:i:c": {
         "bea_name": "Computers and peripheral equipment",
         "table_row": 32,
         "level": 6,
@@ -1311,7 +1311,7 @@
             "fred": "b935rx1q020sbea"
         }
     },
-    "32": {
+    "gdp:pdi:f:n:e:i:o": {
         "bea_name": "Other",
         "table_row": 33,
         "level": 6,
@@ -1352,7 +1352,7 @@
             "fred": "a937rx1q020sbea"
         }
     },
-    "33": {
+    "gdp:pdi:f:n:e:n": {
         "bea_name": "Industrial equipment",
         "table_row": 34,
         "level": 5,
@@ -1393,7 +1393,7 @@
             "fred": "a680rx1q020sbea"
         }
     },
-    "34": {
+    "gdp:pdi:f:n:e:t": {
         "bea_name": "Transportation equipment",
         "table_row": 35,
         "level": 5,
@@ -1434,7 +1434,7 @@
             "fred": "a681rx1q020sbea"
         }
     },
-    "35": {
+    "gdp:pdi:f:n:e:o": {
         "bea_name": "Other equipment",
         "table_row": 36,
         "level": 5,
@@ -1475,7 +1475,7 @@
             "fred": "a862rx1q020sbea"
         }
     },
-    "36": {
+    "gdp:pdi:f:n:i": {
         "bea_name": "Intellectual property products",
         "table_row": 37,
         "level": 4,
@@ -1516,7 +1516,7 @@
             "fred": "y001rx1q020sbea"
         }
     },
-    "37": {
+    "gdp:pdi:f:n:i:s": {
         "bea_name": "Software",
         "table_row": 38,
         "level": 5,
@@ -1557,7 +1557,7 @@
             "fred": "b985rx1q020sbea"
         }
     },
-    "38": {
+    "gdp:pdi:f:n:i:r": {
         "bea_name": "Research and development",
         "table_row": 39,
         "level": 5,
@@ -1598,7 +1598,7 @@
             "fred": "y006rx1q020sbea"
         }
     },
-    "39": {
+    "gdp:pdi:f:n:i:e": {
         "bea_name": "Entertainment, literary, and artistic originals",
         "table_row": 40,
         "level": 5,
@@ -1639,7 +1639,7 @@
             "fred": "y020rx1q020sbea"
         }
     },
-    "40": {
+    "gdp:pdi:f:r": {
         "bea_name": "Residential",
         "table_row": 41,
         "level": 3,
@@ -1680,7 +1680,7 @@
             "fred": "prfic1"
         }
     },
-    "41": {
+    "gdp:pdi:c": {
         "bea_name": "Change in private inventories",
         "table_row": 42,
         "level": 2,
@@ -1703,7 +1703,7 @@
             "fred": "cbic1"
         }
     },
-    "42": {
+    "gdp:pdi:c:f": {
         "bea_name": "Farm",
         "table_row": 43,
         "level": 3,
@@ -1726,7 +1726,7 @@
             "fred": "b018rx1q020sbea"
         }
     },
-    "43": {
+    "gdp:pdi:c:n": {
         "bea_name": "Nonfarm",
         "table_row": 44,
         "level": 3,
@@ -1749,7 +1749,7 @@
             "fred": "a015rx1q020sbea"
         }
     },
-    "44": {
+    "gdp:nx": {
         "bea_name": "Net exports of goods and services",
         "table_row": 45,
         "level": 1,
@@ -1772,7 +1772,7 @@
             "fred": "netexc"
         }
     },
-    "45": {
+    "gdp:nx+x": {
         "bea_name": "Exports",
         "table_row": 46,
         "level": 2,
@@ -1813,7 +1813,7 @@
             "fred": "expgsc1"
         }
     },
-    "46": {
+    "gdp:nx+x:g": {
         "bea_name": "Exports: Goods",
         "table_row": 47,
         "level": 3,
@@ -1854,7 +1854,7 @@
             "fred": "a253rx1q020sbea"
         }
     },
-    "47": {
+    "gdp:nx+x:s": {
         "bea_name": "Exports: Services",
         "table_row": 48,
         "level": 3,
@@ -1895,7 +1895,7 @@
             "fred": "a646rx1q020sbea"
         }
     },
-    "48": {
+    "gdp:nx-m": {
         "bea_name": "Imports",
         "table_row": 49,
         "level": 2,
@@ -1936,7 +1936,7 @@
             "fred": "impgsc1"
         }
     },
-    "49": {
+    "gdp:nx-m:g": {
         "bea_name": "Imports: Goods",
         "table_row": 50,
         "level": 3,
@@ -1977,7 +1977,7 @@
             "fred": "a255rx1q020sbea"
         }
     },
-    "50": {
+    "gdp:nx-m:s": {
         "bea_name": "Imports: Services",
         "table_row": 51,
         "level": 3,
@@ -2018,7 +2018,7 @@
             "fred": "b656rx1q020sbea"
         }
     },
-    "51": {
+    "gdp:gov": {
         "bea_name": "Government consumption expenditures and gross investment",
         "table_row": 52,
         "level": 1,
@@ -2059,7 +2059,7 @@
             "fred": "gcec1"
         }
     },
-    "52": {
+    "gdp:gov:f": {
         "bea_name": "Federal",
         "table_row": 53,
         "level": 2,
@@ -2100,7 +2100,7 @@
             "fred": "fgcec1"
         }
     },
-    "53": {
+    "gdp:gov:f:d": {
         "bea_name": "National defense",
         "table_row": 54,
         "level": 3,
@@ -2141,7 +2141,7 @@
             "fred": "a824rx1q020sbea"
         }
     },
-    "54": {
+    "gdp:gov:f:d:c": {
         "bea_name": "National defense: Consumption expenditures",
         "table_row": 55,
         "level": 4,
@@ -2182,7 +2182,7 @@
             "fred": "a997rx1q020sbea"
         }
     },
-    "55": {
+    "gdp:gov:f:d:i": {
         "bea_name": "National defense: Gross investment",
         "table_row": 56,
         "level": 4,
@@ -2223,7 +2223,7 @@
             "fred": "dgic96"
         }
     },
-    "56": {
+    "gdp:gov:f:n": {
         "bea_name": "Nondefense",
         "table_row": 57,
         "level": 3,
@@ -2264,7 +2264,7 @@
             "fred": "a825rx1q020sbea"
         }
     },
-    "57": {
+    "gdp:gov:f:n:c": {
         "bea_name": "Nondefense: Consumption expenditures",
         "table_row": 58,
         "level": 4,
@@ -2305,7 +2305,7 @@
             "fred": "a542rx1q020sbea"
         }
     },
-    "58": {
+    "gdp:gov:f:n:i": {
         "bea_name": "Nondefense: Gross investment",
         "table_row": 59,
         "level": 4,
@@ -2346,7 +2346,7 @@
             "fred": "ndgic96"
         }
     },
-    "59": {
+    "gdp:gov:s": {
         "bea_name": "State and local",
         "table_row": 60,
         "level": 2,
@@ -2387,7 +2387,7 @@
             "fred": "slcec1"
         }
     },
-    "60": {
+    "gdp:gov:s:c": {
         "bea_name": "State and local: Consumption expenditures",
         "table_row": 61,
         "level": 3,
@@ -2428,7 +2428,7 @@
             "fred": "a991rx1q020sbea"
         }
     },
-    "61": {
+    "gdp:gov:s:i": {
         "bea_name": "State and local: Gross investment",
         "table_row": 62,
         "level": 3,
@@ -2469,7 +2469,7 @@
             "fred": "slinvc96"
         }
     },
-    "62": {
+    "gdp:res": {
         "bea_name": "Residual",
         "table_row": 63,
         "level": 1,
