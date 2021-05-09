@@ -6,25 +6,25 @@
         "quantity": {
             "edan": "qgdp",
             "edan_simple": "qgdp",
-            "bea": "t10103!a191ra",
+            "bea": "nipa!t10103!a191ra",
             "fred": "a191ra3q086sbea"
         },
         "price": {
             "edan": "pgdp",
             "edan_simple": "pgdp",
-            "bea": "t10104!a191rg",
+            "bea": "nipa!t10104!a191rg",
             "fred": "gdpctpi"
         },
         "nominal": {
             "edan": "ngdp",
             "edan_simple": "ngdp",
-            "bea": "t10105!a191rc",
+            "bea": "nipa!t10105!a191rc",
             "fred": "gdp"
         },
         "real": {
             "edan": "rgdp",
             "edan_simple": "rgdp",
-            "bea": "t10106!a191rx",
+            "bea": "nipa!t10106!a191rx",
             "fred": "gdpc1"
         }
     },
@@ -35,25 +35,25 @@
         "quantity": {
             "edan": "qgdp:pce",
             "edan_simple": "qgdppce",
-            "bea": "t10103!dpcera",
+            "bea": "nipa!t10103!dpcera",
             "fred": "dpcera3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce",
             "edan_simple": "pgdppce",
-            "bea": "t10104!dpcerg",
+            "bea": "nipa!t10104!dpcerg",
             "fred": "pcectpi"
         },
         "nominal": {
             "edan": "ngdp:pce",
             "edan_simple": "ngdppce",
-            "bea": "t10105!dpcerc",
+            "bea": "nipa!t10105!dpcerc",
             "fred": "pcec"
         },
         "real": {
             "edan": "rgdp:pce",
             "edan_simple": "rgdppce",
-            "bea": "t10106!dpcerx",
+            "bea": "nipa!t10106!dpcerx",
             "fred": "pcecc96"
         }
     },
@@ -64,25 +64,25 @@
         "quantity": {
             "edan": "qgdp:pce:g",
             "edan_simple": "qgdppceg",
-            "bea": "t10103!dgdsra",
+            "bea": "nipa!t10103!dgdsra",
             "fred": "dgdsra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g",
             "edan_simple": "pgdppceg",
-            "bea": "t10104!dgdsrg",
+            "bea": "nipa!t10104!dgdsrg",
             "fred": "dgdsrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g",
             "edan_simple": "ngdppceg",
-            "bea": "t10105!dgdsrc",
+            "bea": "nipa!t10105!dgdsrc",
             "fred": "dgdsrc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:g",
             "edan_simple": "rgdppceg",
-            "bea": "t10106!dgdsrx",
+            "bea": "nipa!t10106!dgdsrx",
             "fred": "dgdsrx1q020sbea"
         }
     },
@@ -93,25 +93,25 @@
         "quantity": {
             "edan": "qgdp:pce:g:d",
             "edan_simple": "qgdppcegd",
-            "bea": "t10103!ddurra",
+            "bea": "nipa!t10103!ddurra",
             "fred": "ddurra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g:d",
             "edan_simple": "pgdppcegd",
-            "bea": "t10104!ddurrg",
+            "bea": "nipa!t10104!ddurrg",
             "fred": "ddurrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g:d",
             "edan_simple": "ngdppcegd",
-            "bea": "t10105!ddurrc",
+            "bea": "nipa!t10105!ddurrc",
             "fred": "pcdg"
         },
         "real": {
             "edan": "rgdp:pce:g:d",
             "edan_simple": "rgdppcegd",
-            "bea": "t10106!ddurrx",
+            "bea": "nipa!t10106!ddurrx",
             "fred": "pcdgcc96"
         }
     },
@@ -122,25 +122,25 @@
         "quantity": {
             "edan": "qgdp:pce:g:n",
             "edan_simple": "qgdppcegn",
-            "bea": "t10103!dndgra",
+            "bea": "nipa!t10103!dndgra",
             "fred": "dndgra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g:n",
             "edan_simple": "pgdppcegn",
-            "bea": "t10104!dndgrg",
+            "bea": "nipa!t10104!dndgrg",
             "fred": "dndgrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g:n",
             "edan_simple": "ngdppcegn",
-            "bea": "t10105!dndgrc",
+            "bea": "nipa!t10105!dndgrc",
             "fred": "pcnd"
         },
         "real": {
             "edan": "rgdp:pce:g:n",
             "edan_simple": "rgdppcegn",
-            "bea": "t10106!dndgrx",
+            "bea": "nipa!t10106!dndgrx",
             "fred": "pcndgc96"
         }
     },
@@ -151,25 +151,25 @@
         "quantity": {
             "edan": "qgdp:pce:s",
             "edan_simple": "qgdppces",
-            "bea": "t10103!dserra",
+            "bea": "nipa!t10103!dserra",
             "fred": "dserra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:s",
             "edan_simple": "pgdppces",
-            "bea": "t10104!dserrg",
+            "bea": "nipa!t10104!dserrg",
             "fred": "dserrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:s",
             "edan_simple": "ngdppces",
-            "bea": "t10105!dserrc",
+            "bea": "nipa!t10105!dserrc",
             "fred": "pcesv"
         },
         "real": {
             "edan": "rgdp:pce:s",
             "edan_simple": "rgdppces",
-            "bea": "t10106!dserrx",
+            "bea": "nipa!t10106!dserrx",
             "fred": "pcesvc96"
         }
     },
@@ -180,25 +180,25 @@
         "quantity": {
             "edan": "qgdp:pdi",
             "edan_simple": "qgdppdi",
-            "bea": "t10103!a006ra",
+            "bea": "nipa!t10103!a006ra",
             "fred": "a006ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi",
             "edan_simple": "pgdppdi",
-            "bea": "t10104!b006rg",
+            "bea": "nipa!t10104!b006rg",
             "fred": "gpdictpi"
         },
         "nominal": {
             "edan": "ngdp:pdi",
             "edan_simple": "ngdppdi",
-            "bea": "t10105!a006rc",
+            "bea": "nipa!t10105!a006rc",
             "fred": "gpdi"
         },
         "real": {
             "edan": "rgdp:pdi",
             "edan_simple": "rgdppdi",
-            "bea": "t10106!a006rx",
+            "bea": "nipa!t10106!a006rx",
             "fred": "gpdic1"
         }
     },
@@ -209,25 +209,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f",
             "edan_simple": "qgdppdif",
-            "bea": "t10103!a007ra",
+            "bea": "nipa!t10103!a007ra",
             "fred": "a007ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f",
             "edan_simple": "pgdppdif",
-            "bea": "t10104!b007rg",
+            "bea": "nipa!t10104!b007rg",
             "fred": "b007rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f",
             "edan_simple": "ngdppdif",
-            "bea": "t10105!a007rc",
+            "bea": "nipa!t10105!a007rc",
             "fred": "fpi"
         },
         "real": {
             "edan": "rgdp:pdi:f",
             "edan_simple": "rgdppdif",
-            "bea": "t10106!a007rx",
+            "bea": "nipa!t10106!a007rx",
             "fred": "fpic1"
         }
     },
@@ -238,25 +238,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n",
             "edan_simple": "qgdppdifn",
-            "bea": "t10103!a008ra",
+            "bea": "nipa!t10103!a008ra",
             "fred": "a008ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n",
             "edan_simple": "pgdppdifn",
-            "bea": "t10104!b008rg",
+            "bea": "nipa!t10104!b008rg",
             "fred": "b008rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n",
             "edan_simple": "ngdppdifn",
-            "bea": "t10105!a008rc",
+            "bea": "nipa!t10105!a008rc",
             "fred": "pnfi"
         },
         "real": {
             "edan": "rgdp:pdi:f:n",
             "edan_simple": "rgdppdifn",
-            "bea": "t10106!a008rx",
+            "bea": "nipa!t10106!a008rx",
             "fred": "pnfic1"
         }
     },
@@ -267,25 +267,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:s",
             "edan_simple": "qgdppdifns",
-            "bea": "t10103!b009ra",
+            "bea": "nipa!t10103!b009ra",
             "fred": "b009ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:s",
             "edan_simple": "pgdppdifns",
-            "bea": "t10104!b009rg",
+            "bea": "nipa!t10104!b009rg",
             "fred": "b009rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:s",
             "edan_simple": "ngdppdifns",
-            "bea": "t10105!b009rc",
+            "bea": "nipa!t10105!b009rc",
             "fred": "b009rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:s",
             "edan_simple": "rgdppdifns",
-            "bea": "t10106!b009rx",
+            "bea": "nipa!t10106!b009rx",
             "fred": "b009rx1q020sbea"
         }
     },
@@ -296,25 +296,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:e",
             "edan_simple": "qgdppdifne",
-            "bea": "t10103!y033ra",
+            "bea": "nipa!t10103!y033ra",
             "fred": "y033ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:e",
             "edan_simple": "pgdppdifne",
-            "bea": "t10104!y033rg",
+            "bea": "nipa!t10104!y033rg",
             "fred": "y033rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:e",
             "edan_simple": "ngdppdifne",
-            "bea": "t10105!y033rc",
+            "bea": "nipa!t10105!y033rc",
             "fred": "y033rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:e",
             "edan_simple": "rgdppdifne",
-            "bea": "t10106!y033rx",
+            "bea": "nipa!t10106!y033rx",
             "fred": "y033rx1q020sbea"
         }
     },
@@ -325,25 +325,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:i",
             "edan_simple": "qgdppdifni",
-            "bea": "t10103!y001ra",
+            "bea": "nipa!t10103!y001ra",
             "fred": "y001ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:i",
             "edan_simple": "pgdppdifni",
-            "bea": "t10104!y001rg",
+            "bea": "nipa!t10104!y001rg",
             "fred": "y001rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:i",
             "edan_simple": "ngdppdifni",
-            "bea": "t10105!y001rc",
+            "bea": "nipa!t10105!y001rc",
             "fred": "y001rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:i",
             "edan_simple": "rgdppdifni",
-            "bea": "t10106!y001rx",
+            "bea": "nipa!t10106!y001rx",
             "fred": "y001rx1q020sbea"
         }
     },
@@ -354,25 +354,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:r",
             "edan_simple": "qgdppdifr",
-            "bea": "t10103!a011ra",
+            "bea": "nipa!t10103!a011ra",
             "fred": "a011ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:r",
             "edan_simple": "pgdppdifr",
-            "bea": "t10104!b011rg",
+            "bea": "nipa!t10104!b011rg",
             "fred": "b011rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:r",
             "edan_simple": "ngdppdifr",
-            "bea": "t10105!a011rc",
+            "bea": "nipa!t10105!a011rc",
             "fred": "prfi"
         },
         "real": {
             "edan": "rgdp:pdi:f:r",
             "edan_simple": "rgdppdifr",
-            "bea": "t10106!a011rx",
+            "bea": "nipa!t10106!a011rx",
             "fred": "prfic1"
         }
     },
@@ -380,16 +380,28 @@
         "bea_name": "Change in private inventories",
         "table_row": 14,
         "level": 2,
+        "quantity": {
+            "edan": "qgdp:pdi:c",
+            "edan_simple": "qgdppdic",
+            "bea": "nipa!!",
+            "fred": ""
+        },
+        "price": {
+            "edan": "pgdp:pdi:c",
+            "edan_simple": "pgdppdic",
+            "bea": "nipa!!",
+            "fred": ""
+        },
         "nominal": {
             "edan": "ngdp:pdi:c",
             "edan_simple": "ngdppdic",
-            "bea": "t10105!a014rc",
+            "bea": "nipa!t10105!a014rc",
             "fred": "cbi"
         },
         "real": {
             "edan": "rgdp:pdi:c",
             "edan_simple": "rgdppdic",
-            "bea": "t10106!a014rx",
+            "bea": "nipa!t10106!a014rx",
             "fred": "cbic1"
         }
     },
@@ -397,16 +409,28 @@
         "bea_name": "Net exports of goods and services",
         "table_row": 15,
         "level": 1,
+        "quantity": {
+            "edan": "qgdp:nx",
+            "edan_simple": "qgdpnx",
+            "bea": "nipa!!",
+            "fred": ""
+        },
+        "price": {
+            "edan": "pgdp:nx",
+            "edan_simple": "pgdpnx",
+            "bea": "nipa!!",
+            "fred": ""
+        },
         "nominal": {
             "edan": "ngdp:nx",
             "edan_simple": "ngdpnx",
-            "bea": "t10105!a019rc",
+            "bea": "nipa!t10105!a019rc",
             "fred": "netexp"
         },
         "real": {
             "edan": "rgdp:nx",
             "edan_simple": "rgdpnx",
-            "bea": "t10106!a019rx",
+            "bea": "nipa!t10106!a019rx",
             "fred": "netexc"
         }
     },
@@ -417,25 +441,25 @@
         "quantity": {
             "edan": "qgdp:nx+x",
             "edan_simple": "qgdpnxx",
-            "bea": "t10103!b020ra",
+            "bea": "nipa!t10103!b020ra",
             "fred": "b020ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:nx+x",
             "edan_simple": "pgdpnxx",
-            "bea": "t10104!b020rg",
+            "bea": "nipa!t10104!b020rg",
             "fred": "b020rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:nx+x",
             "edan_simple": "ngdpnxx",
-            "bea": "t10105!b020rc",
+            "bea": "nipa!t10105!b020rc",
             "fred": "expgs"
         },
         "real": {
             "edan": "rgdp:nx+x",
             "edan_simple": "rgdpnxx",
-            "bea": "t10106!a020rx",
+            "bea": "nipa!t10106!a020rx",
             "fred": "expgsc1"
         }
     },
@@ -446,25 +470,25 @@
         "quantity": {
             "edan": "qgdp:nx+x:g",
             "edan_simple": "qgdpnxxg",
-            "bea": "t10103!b253ra",
+            "bea": "nipa!t10103!b253ra",
             "fred": "b253ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:nx+x:g",
             "edan_simple": "pgdpnxxg",
-            "bea": "t10104!b253rg",
+            "bea": "nipa!t10104!b253rg",
             "fred": "b253rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:nx+x:g",
             "edan_simple": "ngdpnxxg",
-            "bea": "t10105!a253rc",
+            "bea": "nipa!t10105!a253rc",
             "fred": "a253rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:nx+x:g",
             "edan_simple": "rgdpnxxg",
-            "bea": "t10106!a253rx",
+            "bea": "nipa!t10106!a253rx",
             "fred": "a253rx1q020sbea"
         }
     },
@@ -475,25 +499,25 @@
         "quantity": {
             "edan": "qgdp:nx+x:s",
             "edan_simple": "qgdpnxxs",
-            "bea": "t10103!b646ra",
+            "bea": "nipa!t10103!b646ra",
             "fred": "b646ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:nx+x:s",
             "edan_simple": "pgdpnxxs",
-            "bea": "t10104!b646rg",
+            "bea": "nipa!t10104!b646rg",
             "fred": "b646rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:nx+x:s",
             "edan_simple": "ngdpnxxs",
-            "bea": "t10105!a646rc",
+            "bea": "nipa!t10105!a646rc",
             "fred": "a646rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:nx+x:s",
             "edan_simple": "rgdpnxxs",
-            "bea": "t10106!a646rx",
+            "bea": "nipa!t10106!a646rx",
             "fred": "a646rx1q020sbea"
         }
     },
@@ -504,25 +528,25 @@
         "quantity": {
             "edan": "qgdp:nx-m",
             "edan_simple": "qgdpnxm",
-            "bea": "t10103!b021ra",
+            "bea": "nipa!t10103!b021ra",
             "fred": "b021ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:nx-m",
             "edan_simple": "pgdpnxm",
-            "bea": "t10104!b021rg",
+            "bea": "nipa!t10104!b021rg",
             "fred": "b021rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:nx-m",
             "edan_simple": "ngdpnxm",
-            "bea": "t10105!b021rc",
+            "bea": "nipa!t10105!b021rc",
             "fred": "impgs"
         },
         "real": {
             "edan": "rgdp:nx-m",
             "edan_simple": "rgdpnxm",
-            "bea": "t10106!a021rx",
+            "bea": "nipa!t10106!a021rx",
             "fred": "impgsc1"
         }
     },
@@ -533,25 +557,25 @@
         "quantity": {
             "edan": "qgdp:nx-m:g",
             "edan_simple": "qgdpnxmg",
-            "bea": "t10103!b255ra",
+            "bea": "nipa!t10103!b255ra",
             "fred": "b255ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:nx-m:g",
             "edan_simple": "pgdpnxmg",
-            "bea": "t10104!b255rg",
+            "bea": "nipa!t10104!b255rg",
             "fred": "b255rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:nx-m:g",
             "edan_simple": "ngdpnxmg",
-            "bea": "t10105!a255rc",
+            "bea": "nipa!t10105!a255rc",
             "fred": "a255rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:nx-m:g",
             "edan_simple": "rgdpnxmg",
-            "bea": "t10106!a255rx",
+            "bea": "nipa!t10106!a255rx",
             "fred": "a255rx1q020sbea"
         }
     },
@@ -562,25 +586,25 @@
         "quantity": {
             "edan": "qgdp:nx-m:s",
             "edan_simple": "qgdpnxms",
-            "bea": "t10103!b656ra",
+            "bea": "nipa!t10103!b656ra",
             "fred": "b656ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:nx-m:s",
             "edan_simple": "pgdpnxms",
-            "bea": "t10104!b656rg",
+            "bea": "nipa!t10104!b656rg",
             "fred": "b656rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:nx-m:s",
             "edan_simple": "ngdpnxms",
-            "bea": "t10105!b656rc",
+            "bea": "nipa!t10105!b656rc",
             "fred": "b656rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:nx-m:s",
             "edan_simple": "rgdpnxms",
-            "bea": "t10106!b656rx",
+            "bea": "nipa!t10106!b656rx",
             "fred": "b656rx1q020sbea"
         }
     },
@@ -591,25 +615,25 @@
         "quantity": {
             "edan": "qgdp:gov",
             "edan_simple": "qgdpgov",
-            "bea": "t10103!b822ra",
+            "bea": "nipa!t10103!b822ra",
             "fred": "b822ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov",
             "edan_simple": "pgdpgov",
-            "bea": "t10104!b822rg",
+            "bea": "nipa!t10104!b822rg",
             "fred": "b822rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov",
             "edan_simple": "ngdpgov",
-            "bea": "t10105!a822rc",
+            "bea": "nipa!t10105!a822rc",
             "fred": "gce"
         },
         "real": {
             "edan": "rgdp:gov",
             "edan_simple": "rgdpgov",
-            "bea": "t10106!a822rx",
+            "bea": "nipa!t10106!a822rx",
             "fred": "gcec1"
         }
     },
@@ -620,25 +644,25 @@
         "quantity": {
             "edan": "qgdp:gov:f",
             "edan_simple": "qgdpgovf",
-            "bea": "t10103!b823ra",
+            "bea": "nipa!t10103!b823ra",
             "fred": "b823ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:f",
             "edan_simple": "pgdpgovf",
-            "bea": "t10104!b823rg",
+            "bea": "nipa!t10104!b823rg",
             "fred": "b823rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:f",
             "edan_simple": "ngdpgovf",
-            "bea": "t10105!a823rc",
+            "bea": "nipa!t10105!a823rc",
             "fred": "fgce"
         },
         "real": {
             "edan": "rgdp:gov:f",
             "edan_simple": "rgdpgovf",
-            "bea": "t10106!a823rx",
+            "bea": "nipa!t10106!a823rx",
             "fred": "fgcec1"
         }
     },
@@ -649,25 +673,25 @@
         "quantity": {
             "edan": "qgdp:gov:f:d",
             "edan_simple": "qgdpgovfd",
-            "bea": "t10103!b824ra",
+            "bea": "nipa!t10103!b824ra",
             "fred": "b824ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:f:d",
             "edan_simple": "pgdpgovfd",
-            "bea": "t10104!b824rg",
+            "bea": "nipa!t10104!b824rg",
             "fred": "b824rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:f:d",
             "edan_simple": "ngdpgovfd",
-            "bea": "t10105!a824rc",
+            "bea": "nipa!t10105!a824rc",
             "fred": "fdefx"
         },
         "real": {
             "edan": "rgdp:gov:f:d",
             "edan_simple": "rgdpgovfd",
-            "bea": "t10106!a824rx",
+            "bea": "nipa!t10106!a824rx",
             "fred": "a824rx1q020sbea"
         }
     },
@@ -678,25 +702,25 @@
         "quantity": {
             "edan": "qgdp:gov:f:n",
             "edan_simple": "qgdpgovfn",
-            "bea": "t10103!b825ra",
+            "bea": "nipa!t10103!b825ra",
             "fred": "b825ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:f:n",
             "edan_simple": "pgdpgovfn",
-            "bea": "t10104!b825rg",
+            "bea": "nipa!t10104!b825rg",
             "fred": "b825rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:f:n",
             "edan_simple": "ngdpgovfn",
-            "bea": "t10105!a825rc",
+            "bea": "nipa!t10105!a825rc",
             "fred": "fndefx"
         },
         "real": {
             "edan": "rgdp:gov:f:n",
             "edan_simple": "rgdpgovfn",
-            "bea": "t10106!a825rx",
+            "bea": "nipa!t10106!a825rx",
             "fred": "a825rx1q020sbea"
         }
     },
@@ -707,25 +731,25 @@
         "quantity": {
             "edan": "qgdp:gov:s",
             "edan_simple": "qgdpgovs",
-            "bea": "t10103!b829ra",
+            "bea": "nipa!t10103!b829ra",
             "fred": "b829ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:s",
             "edan_simple": "pgdpgovs",
-            "bea": "t10104!b829rg",
+            "bea": "nipa!t10104!b829rg",
             "fred": "b829rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:s",
             "edan_simple": "ngdpgovs",
-            "bea": "t10105!a829rc",
+            "bea": "nipa!t10105!a829rc",
             "fred": "slce"
         },
         "real": {
             "edan": "rgdp:gov:s",
             "edan_simple": "rgdpgovs",
-            "bea": "t10106!a829rx",
+            "bea": "nipa!t10106!a829rx",
             "fred": "slcec1"
         }
     },
@@ -733,10 +757,28 @@
         "bea_name": "Residual",
         "table_row": 27,
         "level": 1,
+        "quantity": {
+            "edan": "qgdp:res",
+            "edan_simple": "qgdpres",
+            "bea": "nipa!!",
+            "fred": ""
+        },
+        "price": {
+            "edan": "pgdp:res",
+            "edan_simple": "pgdpres",
+            "bea": "nipa!!",
+            "fred": ""
+        },
+        "nominal": {
+            "edan": "ngdp:res",
+            "edan_simple": "ngdpres",
+            "bea": "nipa!!",
+            "fred": ""
+        },
         "real": {
             "edan": "rgdp:res",
             "edan_simple": "rgdpres",
-            "bea": "t10106!a960rx",
+            "bea": "nipa!t10106!a960rx",
             "fred": "a960rx1q020sbea"
         }
     }
