@@ -16,3 +16,8 @@ Stores the basic GDP series codes in BEA tables `1.1.3`, `1.1.4`, `1.1.5`, `1.1.
 ### edan-bea-fred\_gdp\_.json
 
 Stores the detailed GDP series codes in BEA tables `1.5.3`, `1.5.4`, `1.5.5`, `1.5.6`; corresponding to quantity index, price index, nominal compensation, and real consumption series, respectively. Those table names and series codes are mapped to the unique codes used in the `edan` library, the FRED codes, and other nice-to-have data (full name, table row, etc.) are stored.
+
+
+## Notes
+
+The BEA API needs separate `table_name` and `series_code` parameters to retrieve the correct series. Rather than store these as separate entries, these identifiers are concatenated with a `!` used as a delimiter, so a single string can be used.

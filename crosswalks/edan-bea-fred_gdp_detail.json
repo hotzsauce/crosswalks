@@ -6,37 +6,25 @@
         "quantity": {
             "edan": "qgdp",
             "edan_simple": "qgdp",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "a191ra"
-            },
+            "bea": "t10503!a191ra",
             "fred": "a191ra3q086sbea"
         },
         "price": {
             "edan": "pgdp",
             "edan_simple": "pgdp",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "a191rg"
-            },
+            "bea": "t10504!a191rg",
             "fred": "gdpctpi"
         },
         "nominal": {
             "edan": "ngdp",
             "edan_simple": "ngdp",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a191rc"
-            },
+            "bea": "t10505!a191rc",
             "fred": "gdp"
         },
         "real": {
             "edan": "rgdp",
             "edan_simple": "rgdp",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a191rx"
-            },
+            "bea": "t10506!a191rx",
             "fred": "gdpc1"
         }
     },
@@ -47,37 +35,25 @@
         "quantity": {
             "edan": "qgdp:pce",
             "edan_simple": "qgdppce",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dpcera"
-            },
+            "bea": "t10503!dpcera",
             "fred": "dpcera3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce",
             "edan_simple": "pgdppce",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dpcerg"
-            },
+            "bea": "t10504!dpcerg",
             "fred": "pcectpi"
         },
         "nominal": {
             "edan": "ngdp:pce",
             "edan_simple": "ngdppce",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dpcerc"
-            },
+            "bea": "t10505!dpcerc",
             "fred": "pcec"
         },
         "real": {
             "edan": "rgdp:pce",
             "edan_simple": "rgdppce",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dpcerx"
-            },
+            "bea": "t10506!dpcerx",
             "fred": "pcecc96"
         }
     },
@@ -88,37 +64,25 @@
         "quantity": {
             "edan": "qgdp:pce:g",
             "edan_simple": "qgdppceg",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dgdsra"
-            },
+            "bea": "t10503!dgdsra",
             "fred": "dgdsra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g",
             "edan_simple": "pgdppceg",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dgdsrg"
-            },
+            "bea": "t10504!dgdsrg",
             "fred": "dgdsrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g",
             "edan_simple": "ngdppceg",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dgdsrc"
-            },
+            "bea": "t10505!dgdsrc",
             "fred": "dgdsrc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:g",
             "edan_simple": "rgdppceg",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dgdsrx"
-            },
+            "bea": "t10506!dgdsrx",
             "fred": "dgdsrx1q020sbea"
         }
     },
@@ -129,37 +93,25 @@
         "quantity": {
             "edan": "qgdp:pce:g:d",
             "edan_simple": "qgdppcegd",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "ddurra"
-            },
+            "bea": "t10503!ddurra",
             "fred": "ddurra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g:d",
             "edan_simple": "pgdppcegd",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "ddurrg"
-            },
+            "bea": "t10504!ddurrg",
             "fred": "ddurrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g:d",
             "edan_simple": "ngdppcegd",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "ddurrc"
-            },
+            "bea": "t10505!ddurrc",
             "fred": "pcdg"
         },
         "real": {
             "edan": "rgdp:pce:g:d",
             "edan_simple": "rgdppcegd",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "ddurrx"
-            },
+            "bea": "t10506!ddurrx",
             "fred": "pcdgcc96"
         }
     },
@@ -170,37 +122,25 @@
         "quantity": {
             "edan": "qgdp:pce:g:d:v",
             "edan_simple": "qgdppcegdv",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dmotra"
-            },
+            "bea": "t10503!dmotra",
             "fred": "dmotra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g:d:v",
             "edan_simple": "pgdppcegdv",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dmotrg"
-            },
+            "bea": "t10504!dmotrg",
             "fred": "dmotrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g:d:v",
             "edan_simple": "ngdppcegdv",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dmotrc"
-            },
+            "bea": "t10505!dmotrc",
             "fred": "dmotrc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:g:d:v",
             "edan_simple": "rgdppcegdv",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dmotrx"
-            },
+            "bea": "t10506!dmotrx",
             "fred": "dmotrx1q020sbea"
         }
     },
@@ -211,37 +151,25 @@
         "quantity": {
             "edan": "qgdp:pce:g:d:f",
             "edan_simple": "qgdppcegdf",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dfdhra"
-            },
+            "bea": "t10503!dfdhra",
             "fred": "dfdhra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g:d:f",
             "edan_simple": "pgdppcegdf",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dfdhrg"
-            },
+            "bea": "t10504!dfdhrg",
             "fred": "dfdhrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g:d:f",
             "edan_simple": "ngdppcegdf",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dfdhrc"
-            },
+            "bea": "t10505!dfdhrc",
             "fred": "dfdhrc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:g:d:f",
             "edan_simple": "rgdppcegdf",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dfdhrx"
-            },
+            "bea": "t10506!dfdhrx",
             "fred": "dfdhrx1q020sbea"
         }
     },
@@ -252,37 +180,25 @@
         "quantity": {
             "edan": "qgdp:pce:g:d:r",
             "edan_simple": "qgdppcegdr",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dreqra"
-            },
+            "bea": "t10503!dreqra",
             "fred": "dreqra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g:d:r",
             "edan_simple": "pgdppcegdr",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dreqrg"
-            },
+            "bea": "t10504!dreqrg",
             "fred": "dreqrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g:d:r",
             "edan_simple": "ngdppcegdr",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dreqrc"
-            },
+            "bea": "t10505!dreqrc",
             "fred": "dreqrc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:g:d:r",
             "edan_simple": "rgdppcegdr",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dreqrx"
-            },
+            "bea": "t10506!dreqrx",
             "fred": "dreqrx1q020sbea"
         }
     },
@@ -293,37 +209,25 @@
         "quantity": {
             "edan": "qgdp:pce:g:d:o",
             "edan_simple": "qgdppcegdo",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dodgra"
-            },
+            "bea": "t10503!dodgra",
             "fred": "dodgra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g:d:o",
             "edan_simple": "pgdppcegdo",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dodgrg"
-            },
+            "bea": "t10504!dodgrg",
             "fred": "dodgrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g:d:o",
             "edan_simple": "ngdppcegdo",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dodgrc"
-            },
+            "bea": "t10505!dodgrc",
             "fred": "dodgrc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:g:d:o",
             "edan_simple": "rgdppcegdo",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dodgrx"
-            },
+            "bea": "t10506!dodgrx",
             "fred": "dodgrx1q020sbea"
         }
     },
@@ -334,37 +238,25 @@
         "quantity": {
             "edan": "qgdp:pce:g:n",
             "edan_simple": "qgdppcegn",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dndgra"
-            },
+            "bea": "t10503!dndgra",
             "fred": "dndgra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g:n",
             "edan_simple": "pgdppcegn",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dndgrg"
-            },
+            "bea": "t10504!dndgrg",
             "fred": "dndgrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g:n",
             "edan_simple": "ngdppcegn",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dndgrc"
-            },
+            "bea": "t10505!dndgrc",
             "fred": "pcnd"
         },
         "real": {
             "edan": "rgdp:pce:g:n",
             "edan_simple": "rgdppcegn",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dndgrx"
-            },
+            "bea": "t10506!dndgrx",
             "fred": "pcndgc96"
         }
     },
@@ -375,37 +267,25 @@
         "quantity": {
             "edan": "qgdp:pce:g:n:f",
             "edan_simple": "qgdppcegnf",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dfxara"
-            },
+            "bea": "t10503!dfxara",
             "fred": "dfxara3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g:n:f",
             "edan_simple": "pgdppcegnf",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dfxarg"
-            },
+            "bea": "t10504!dfxarg",
             "fred": "dfxarg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g:n:f",
             "edan_simple": "ngdppcegnf",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dfxarc"
-            },
+            "bea": "t10505!dfxarc",
             "fred": "dfxarc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:g:n:f",
             "edan_simple": "rgdppcegnf",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dfxarx"
-            },
+            "bea": "t10506!dfxarx",
             "fred": "dfxarx1q020sbea"
         }
     },
@@ -416,37 +296,25 @@
         "quantity": {
             "edan": "qgdp:pce:g:n:c",
             "edan_simple": "qgdppcegnc",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dclora"
-            },
+            "bea": "t10503!dclora",
             "fred": "dclora3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g:n:c",
             "edan_simple": "pgdppcegnc",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dclorg"
-            },
+            "bea": "t10504!dclorg",
             "fred": "dclorg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g:n:c",
             "edan_simple": "ngdppcegnc",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dclorc"
-            },
+            "bea": "t10505!dclorc",
             "fred": "dclorc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:g:n:c",
             "edan_simple": "rgdppcegnc",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dclorx"
-            },
+            "bea": "t10506!dclorx",
             "fred": "dclorx1q020sbea"
         }
     },
@@ -457,37 +325,25 @@
         "quantity": {
             "edan": "qgdp:pce:g:n:g",
             "edan_simple": "qgdppcegng",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dgoera"
-            },
+            "bea": "t10503!dgoera",
             "fred": "dgoera3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g:n:g",
             "edan_simple": "pgdppcegng",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dgoerg"
-            },
+            "bea": "t10504!dgoerg",
             "fred": "dgoerg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g:n:g",
             "edan_simple": "ngdppcegng",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dgoerc"
-            },
+            "bea": "t10505!dgoerc",
             "fred": "dgoerc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:g:n:g",
             "edan_simple": "rgdppcegng",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dgoerx"
-            },
+            "bea": "t10506!dgoerx",
             "fred": "dgoerx1q020sbea"
         }
     },
@@ -498,37 +354,25 @@
         "quantity": {
             "edan": "qgdp:pce:g:n:o",
             "edan_simple": "qgdppcegno",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dongra"
-            },
+            "bea": "t10503!dongra",
             "fred": "dongra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:g:n:o",
             "edan_simple": "pgdppcegno",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dongrg"
-            },
+            "bea": "t10504!dongrg",
             "fred": "dongrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:g:n:o",
             "edan_simple": "ngdppcegno",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dongrc"
-            },
+            "bea": "t10505!dongrc",
             "fred": "dongrc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:g:n:o",
             "edan_simple": "rgdppcegno",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dongrx"
-            },
+            "bea": "t10506!dongrx",
             "fred": "dongrx1q020sbea"
         }
     },
@@ -539,37 +383,25 @@
         "quantity": {
             "edan": "qgdp:pce:s",
             "edan_simple": "qgdppces",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dserra"
-            },
+            "bea": "t10503!dserra",
             "fred": "dserra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:s",
             "edan_simple": "pgdppces",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dserrg"
-            },
+            "bea": "t10504!dserrg",
             "fred": "dserrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:s",
             "edan_simple": "ngdppces",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dserrc"
-            },
+            "bea": "t10505!dserrc",
             "fred": "pcesv"
         },
         "real": {
             "edan": "rgdp:pce:s",
             "edan_simple": "rgdppces",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dserrx"
-            },
+            "bea": "t10506!dserrx",
             "fred": "pcesvc96"
         }
     },
@@ -580,37 +412,25 @@
         "quantity": {
             "edan": "qgdp:pce:s:h",
             "edan_simple": "qgdppcesh",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dhcera"
-            },
+            "bea": "t10503!dhcera",
             "fred": "dhcera3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:s:h",
             "edan_simple": "pgdppcesh",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dhcerg"
-            },
+            "bea": "t10504!dhcerg",
             "fred": "dhcerg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:s:h",
             "edan_simple": "ngdppcesh",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dhcerc"
-            },
+            "bea": "t10505!dhcerc",
             "fred": "dhcerc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:s:h",
             "edan_simple": "rgdppcesh",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dhcerx"
-            },
+            "bea": "t10506!dhcerx",
             "fred": "dhcerx1q020sbea"
         }
     },
@@ -621,37 +441,25 @@
         "quantity": {
             "edan": "qgdp:pce:s:h:h",
             "edan_simple": "qgdppceshh",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dhutra"
-            },
+            "bea": "t10503!dhutra",
             "fred": "dhutra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:s:h:h",
             "edan_simple": "pgdppceshh",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dhutrg"
-            },
+            "bea": "t10504!dhutrg",
             "fred": "dhutrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:s:h:h",
             "edan_simple": "ngdppceshh",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dhutrc"
-            },
+            "bea": "t10505!dhutrc",
             "fred": "dhutrc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:s:h:h",
             "edan_simple": "rgdppceshh",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dhutrx"
-            },
+            "bea": "t10506!dhutrx",
             "fred": "dhutrx1q020sbea"
         }
     },
@@ -662,37 +470,25 @@
         "quantity": {
             "edan": "qgdp:pce:s:h:c",
             "edan_simple": "qgdppceshc",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dhlcra"
-            },
+            "bea": "t10503!dhlcra",
             "fred": "dhlcra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:s:h:c",
             "edan_simple": "pgdppceshc",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dhlcrg"
-            },
+            "bea": "t10504!dhlcrg",
             "fred": "dhlcrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:s:h:c",
             "edan_simple": "ngdppceshc",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dhlcrc"
-            },
+            "bea": "t10505!dhlcrc",
             "fred": "dhlcrc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:s:h:c",
             "edan_simple": "rgdppceshc",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dhlcrx"
-            },
+            "bea": "t10506!dhlcrx",
             "fred": "dhlcrx1q020sbea"
         }
     },
@@ -703,37 +499,25 @@
         "quantity": {
             "edan": "qgdp:pce:s:h:t",
             "edan_simple": "qgdppcesht",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dtrsra"
-            },
+            "bea": "t10503!dtrsra",
             "fred": "dtrsra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:s:h:t",
             "edan_simple": "pgdppcesht",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dtrsrg"
-            },
+            "bea": "t10504!dtrsrg",
             "fred": "dtrsrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:s:h:t",
             "edan_simple": "ngdppcesht",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dtrsrc"
-            },
+            "bea": "t10505!dtrsrc",
             "fred": "dtrsrc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:s:h:t",
             "edan_simple": "rgdppcesht",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dtrsrx"
-            },
+            "bea": "t10506!dtrsrx",
             "fred": "dtrsrx1q020sbea"
         }
     },
@@ -744,37 +528,25 @@
         "quantity": {
             "edan": "qgdp:pce:s:h:r",
             "edan_simple": "qgdppceshr",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "drcara"
-            },
+            "bea": "t10503!drcara",
             "fred": "drcara3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:s:h:r",
             "edan_simple": "pgdppceshr",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "drcarg"
-            },
+            "bea": "t10504!drcarg",
             "fred": "drcarg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:s:h:r",
             "edan_simple": "ngdppceshr",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "drcarc"
-            },
+            "bea": "t10505!drcarc",
             "fred": "drcarc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:s:h:r",
             "edan_simple": "rgdppceshr",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "drcarx"
-            },
+            "bea": "t10506!drcarx",
             "fred": "drcarx1q020sbea"
         }
     },
@@ -785,37 +557,25 @@
         "quantity": {
             "edan": "qgdp:pce:s:h:f",
             "edan_simple": "qgdppceshf",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dfsara"
-            },
+            "bea": "t10503!dfsara",
             "fred": "dfsara3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:s:h:f",
             "edan_simple": "pgdppceshf",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dfsarg"
-            },
+            "bea": "t10504!dfsarg",
             "fred": "dfsarg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:s:h:f",
             "edan_simple": "ngdppceshf",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dfsarc"
-            },
+            "bea": "t10505!dfsarc",
             "fred": "dfsarc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:s:h:f",
             "edan_simple": "rgdppceshf",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dfsarx"
-            },
+            "bea": "t10506!dfsarx",
             "fred": "dfsarx1q020sbea"
         }
     },
@@ -826,37 +586,25 @@
         "quantity": {
             "edan": "qgdp:pce:s:h:i",
             "edan_simple": "qgdppceshi",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "difsra"
-            },
+            "bea": "t10503!difsra",
             "fred": "difsra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:s:h:i",
             "edan_simple": "pgdppceshi",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "difsrg"
-            },
+            "bea": "t10504!difsrg",
             "fred": "difsrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:s:h:i",
             "edan_simple": "ngdppceshi",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "difsrc"
-            },
+            "bea": "t10505!difsrc",
             "fred": "difsrc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:s:h:i",
             "edan_simple": "rgdppceshi",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "difsrx"
-            },
+            "bea": "t10506!difsrx",
             "fred": "difsrx1q020sbea"
         }
     },
@@ -867,37 +615,25 @@
         "quantity": {
             "edan": "qgdp:pce:s:h:o",
             "edan_simple": "qgdppcesho",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dotsra"
-            },
+            "bea": "t10503!dotsra",
             "fred": "dotsra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:s:h:o",
             "edan_simple": "pgdppcesho",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dotsrg"
-            },
+            "bea": "t10504!dotsrg",
             "fred": "dotsrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:s:h:o",
             "edan_simple": "ngdppcesho",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dotsrc"
-            },
+            "bea": "t10505!dotsrc",
             "fred": "dotsrc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:s:h:o",
             "edan_simple": "rgdppcesho",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dotsrx"
-            },
+            "bea": "t10506!dotsrx",
             "fred": "dotsrx1q020sbea"
         }
     },
@@ -908,37 +644,25 @@
         "quantity": {
             "edan": "qgdp:pce:s:n",
             "edan_simple": "qgdppcesn",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dnpira"
-            },
+            "bea": "t10503!dnpira",
             "fred": "dnpira3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:s:n",
             "edan_simple": "pgdppcesn",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dnpirg"
-            },
+            "bea": "t10504!dnpirg",
             "fred": "dnpirg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:s:n",
             "edan_simple": "ngdppcesn",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dnpirc"
-            },
+            "bea": "t10505!dnpirc",
             "fred": "dnpirc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:s:n",
             "edan_simple": "rgdppcesn",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dnpirx"
-            },
+            "bea": "t10506!dnpirx",
             "fred": "dnpirx1q020sbea"
         }
     },
@@ -949,37 +673,25 @@
         "quantity": {
             "edan": "qgdp:pce:s:n+o",
             "edan_simple": "qgdppcesno",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dnpera"
-            },
+            "bea": "t10503!dnpera",
             "fred": "dnpera3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:s:n+o",
             "edan_simple": "pgdppcesno",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dnperg"
-            },
+            "bea": "t10504!dnperg",
             "fred": "dnperg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:s:n+o",
             "edan_simple": "ngdppcesno",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dnperc"
-            },
+            "bea": "t10505!dnperc",
             "fred": "dnperc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:s:n+o",
             "edan_simple": "rgdppcesno",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dnperx"
-            },
+            "bea": "t10506!dnperx",
             "fred": "dnperx1q020sbea"
         }
     },
@@ -990,37 +702,25 @@
         "quantity": {
             "edan": "qgdp:pce:s:n-l",
             "edan_simple": "qgdppcesnl",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "dnpsra"
-            },
+            "bea": "t10503!dnpsra",
             "fred": "dnpsra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pce:s:n-l",
             "edan_simple": "pgdppcesnl",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "dnpsrg"
-            },
+            "bea": "t10504!dnpsrg",
             "fred": "dnpsrg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pce:s:n-l",
             "edan_simple": "ngdppcesnl",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "dnpsrc"
-            },
+            "bea": "t10505!dnpsrc",
             "fred": "dnpsrc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pce:s:n-l",
             "edan_simple": "rgdppcesnl",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "dnpsrx"
-            },
+            "bea": "t10506!dnpsrx",
             "fred": "dnpsrx1q020sbea"
         }
     },
@@ -1031,37 +731,25 @@
         "quantity": {
             "edan": "qgdp:pdi",
             "edan_simple": "qgdppdi",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "a006ra"
-            },
+            "bea": "t10503!a006ra",
             "fred": "a006ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi",
             "edan_simple": "pgdppdi",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b006rg"
-            },
+            "bea": "t10504!b006rg",
             "fred": "gpdictpi"
         },
         "nominal": {
             "edan": "ngdp:pdi",
             "edan_simple": "ngdppdi",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a006rc"
-            },
+            "bea": "t10505!a006rc",
             "fred": "gpdi"
         },
         "real": {
             "edan": "rgdp:pdi",
             "edan_simple": "rgdppdi",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a006rx"
-            },
+            "bea": "t10506!a006rx",
             "fred": "gpdic1"
         }
     },
@@ -1072,37 +760,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f",
             "edan_simple": "qgdppdif",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "a007ra"
-            },
+            "bea": "t10503!a007ra",
             "fred": "a007ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f",
             "edan_simple": "pgdppdif",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b007rg"
-            },
+            "bea": "t10504!b007rg",
             "fred": "b007rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f",
             "edan_simple": "ngdppdif",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a007rc"
-            },
+            "bea": "t10505!a007rc",
             "fred": "fpi"
         },
         "real": {
             "edan": "rgdp:pdi:f",
             "edan_simple": "rgdppdif",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a007rx"
-            },
+            "bea": "t10506!a007rx",
             "fred": "fpic1"
         }
     },
@@ -1113,37 +789,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n",
             "edan_simple": "qgdppdifn",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "a008ra"
-            },
+            "bea": "t10503!a008ra",
             "fred": "a008ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n",
             "edan_simple": "pgdppdifn",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b008rg"
-            },
+            "bea": "t10504!b008rg",
             "fred": "b008rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n",
             "edan_simple": "ngdppdifn",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a008rc"
-            },
+            "bea": "t10505!a008rc",
             "fred": "pnfi"
         },
         "real": {
             "edan": "rgdp:pdi:f:n",
             "edan_simple": "rgdppdifn",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a008rx"
-            },
+            "bea": "t10506!a008rx",
             "fred": "pnfic1"
         }
     },
@@ -1154,37 +818,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:s",
             "edan_simple": "qgdppdifns",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b009ra"
-            },
+            "bea": "t10503!b009ra",
             "fred": "b009ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:s",
             "edan_simple": "pgdppdifns",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b009rg"
-            },
+            "bea": "t10504!b009rg",
             "fred": "b009rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:s",
             "edan_simple": "ngdppdifns",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "b009rc"
-            },
+            "bea": "t10505!b009rc",
             "fred": "b009rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:s",
             "edan_simple": "rgdppdifns",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "b009rx"
-            },
+            "bea": "t10506!b009rx",
             "fred": "b009rx1q020sbea"
         }
     },
@@ -1195,37 +847,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:e",
             "edan_simple": "qgdppdifne",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "y033ra"
-            },
+            "bea": "t10503!y033ra",
             "fred": "y033ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:e",
             "edan_simple": "pgdppdifne",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "y033rg"
-            },
+            "bea": "t10504!y033rg",
             "fred": "y033rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:e",
             "edan_simple": "ngdppdifne",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "y033rc"
-            },
+            "bea": "t10505!y033rc",
             "fred": "y033rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:e",
             "edan_simple": "rgdppdifne",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "y033rx"
-            },
+            "bea": "t10506!y033rx",
             "fred": "y033rx1q020sbea"
         }
     },
@@ -1236,37 +876,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:e:i",
             "edan_simple": "qgdppdifnei",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "y034ra"
-            },
+            "bea": "t10503!y034ra",
             "fred": "y034ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:e:i",
             "edan_simple": "pgdppdifnei",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "y034rg"
-            },
+            "bea": "t10504!y034rg",
             "fred": "y034rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:e:i",
             "edan_simple": "ngdppdifnei",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "y034rc"
-            },
+            "bea": "t10505!y034rc",
             "fred": "y034rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:e:i",
             "edan_simple": "rgdppdifnei",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "y034rx"
-            },
+            "bea": "t10506!y034rx",
             "fred": "y034rx1q020sbea"
         }
     },
@@ -1277,37 +905,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:e:i:c",
             "edan_simple": "qgdppdifneic",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b935ra"
-            },
+            "bea": "t10503!b935ra",
             "fred": "b935ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:e:i:c",
             "edan_simple": "pgdppdifneic",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b935rg"
-            },
+            "bea": "t10504!b935rg",
             "fred": "b935rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:e:i:c",
             "edan_simple": "ngdppdifneic",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "b935rc"
-            },
+            "bea": "t10505!b935rc",
             "fred": "b935rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:e:i:c",
             "edan_simple": "rgdppdifneic",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "b935rx"
-            },
+            "bea": "t10506!b935rx",
             "fred": "b935rx1q020sbea"
         }
     },
@@ -1318,37 +934,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:e:i:o",
             "edan_simple": "qgdppdifneio",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "a937ra"
-            },
+            "bea": "t10503!a937ra",
             "fred": "a937ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:e:i:o",
             "edan_simple": "pgdppdifneio",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "a937rg"
-            },
+            "bea": "t10504!a937rg",
             "fred": "a937rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:e:i:o",
             "edan_simple": "ngdppdifneio",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a937rc"
-            },
+            "bea": "t10505!a937rc",
             "fred": "a937rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:e:i:o",
             "edan_simple": "rgdppdifneio",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a937rx"
-            },
+            "bea": "t10506!a937rx",
             "fred": "a937rx1q020sbea"
         }
     },
@@ -1359,37 +963,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:e:n",
             "edan_simple": "qgdppdifnen",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "a680ra"
-            },
+            "bea": "t10503!a680ra",
             "fred": "a680ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:e:n",
             "edan_simple": "pgdppdifnen",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "a680rg"
-            },
+            "bea": "t10504!a680rg",
             "fred": "a680rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:e:n",
             "edan_simple": "ngdppdifnen",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a680rc"
-            },
+            "bea": "t10505!a680rc",
             "fred": "a680rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:e:n",
             "edan_simple": "rgdppdifnen",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a680rx"
-            },
+            "bea": "t10506!a680rx",
             "fred": "a680rx1q020sbea"
         }
     },
@@ -1400,37 +992,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:e:t",
             "edan_simple": "qgdppdifnet",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "a681ra"
-            },
+            "bea": "t10503!a681ra",
             "fred": "a681ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:e:t",
             "edan_simple": "pgdppdifnet",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "a681rg"
-            },
+            "bea": "t10504!a681rg",
             "fred": "a681rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:e:t",
             "edan_simple": "ngdppdifnet",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a681rc"
-            },
+            "bea": "t10505!a681rc",
             "fred": "a681rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:e:t",
             "edan_simple": "rgdppdifnet",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a681rx"
-            },
+            "bea": "t10506!a681rx",
             "fred": "a681rx1q020sbea"
         }
     },
@@ -1441,37 +1021,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:e:o",
             "edan_simple": "qgdppdifneo",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "a862ra"
-            },
+            "bea": "t10503!a862ra",
             "fred": "a862ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:e:o",
             "edan_simple": "pgdppdifneo",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "a862rg"
-            },
+            "bea": "t10504!a862rg",
             "fred": "a862rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:e:o",
             "edan_simple": "ngdppdifneo",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a862rc"
-            },
+            "bea": "t10505!a862rc",
             "fred": "a862rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:e:o",
             "edan_simple": "rgdppdifneo",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a862rx"
-            },
+            "bea": "t10506!a862rx",
             "fred": "a862rx1q020sbea"
         }
     },
@@ -1482,37 +1050,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:i",
             "edan_simple": "qgdppdifni",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "y001ra"
-            },
+            "bea": "t10503!y001ra",
             "fred": "y001ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:i",
             "edan_simple": "pgdppdifni",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "y001rg"
-            },
+            "bea": "t10504!y001rg",
             "fred": "y001rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:i",
             "edan_simple": "ngdppdifni",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "y001rc"
-            },
+            "bea": "t10505!y001rc",
             "fred": "y001rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:i",
             "edan_simple": "rgdppdifni",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "y001rx"
-            },
+            "bea": "t10506!y001rx",
             "fred": "y001rx1q020sbea"
         }
     },
@@ -1523,37 +1079,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:i:s",
             "edan_simple": "qgdppdifnis",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b985ra"
-            },
+            "bea": "t10503!b985ra",
             "fred": "b985ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:i:s",
             "edan_simple": "pgdppdifnis",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b985rg"
-            },
+            "bea": "t10504!b985rg",
             "fred": "b985rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:i:s",
             "edan_simple": "ngdppdifnis",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "b985rc"
-            },
+            "bea": "t10505!b985rc",
             "fred": "b985rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:i:s",
             "edan_simple": "rgdppdifnis",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "b985rx"
-            },
+            "bea": "t10506!b985rx",
             "fred": "b985rx1q020sbea"
         }
     },
@@ -1564,37 +1108,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:i:r",
             "edan_simple": "qgdppdifnir",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "y006ra"
-            },
+            "bea": "t10503!y006ra",
             "fred": "y006ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:i:r",
             "edan_simple": "pgdppdifnir",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "y006rg"
-            },
+            "bea": "t10504!y006rg",
             "fred": "y006rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:i:r",
             "edan_simple": "ngdppdifnir",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "y006rc"
-            },
+            "bea": "t10505!y006rc",
             "fred": "y006rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:i:r",
             "edan_simple": "rgdppdifnir",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "y006rx"
-            },
+            "bea": "t10506!y006rx",
             "fred": "y006rx1q020sbea"
         }
     },
@@ -1605,37 +1137,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:n:i:e",
             "edan_simple": "qgdppdifnie",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "y020ra"
-            },
+            "bea": "t10503!y020ra",
             "fred": "y020ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:n:i:e",
             "edan_simple": "pgdppdifnie",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "y020rg"
-            },
+            "bea": "t10504!y020rg",
             "fred": "y020rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:n:i:e",
             "edan_simple": "ngdppdifnie",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "y020rc"
-            },
+            "bea": "t10505!y020rc",
             "fred": "y020rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:f:n:i:e",
             "edan_simple": "rgdppdifnie",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "y020rx"
-            },
+            "bea": "t10506!y020rx",
             "fred": "y020rx1q020sbea"
         }
     },
@@ -1646,37 +1166,25 @@
         "quantity": {
             "edan": "qgdp:pdi:f:r",
             "edan_simple": "qgdppdifr",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "a011ra"
-            },
+            "bea": "t10503!a011ra",
             "fred": "a011ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:pdi:f:r",
             "edan_simple": "pgdppdifr",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b011rg"
-            },
+            "bea": "t10504!b011rg",
             "fred": "b011rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:pdi:f:r",
             "edan_simple": "ngdppdifr",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a011rc"
-            },
+            "bea": "t10505!a011rc",
             "fred": "prfi"
         },
         "real": {
             "edan": "rgdp:pdi:f:r",
             "edan_simple": "rgdppdifr",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a011rx"
-            },
+            "bea": "t10506!a011rx",
             "fred": "prfic1"
         }
     },
@@ -1687,19 +1195,13 @@
         "nominal": {
             "edan": "ngdp:pdi:c",
             "edan_simple": "ngdppdic",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a014rc"
-            },
+            "bea": "t10505!a014rc",
             "fred": "cbi"
         },
         "real": {
             "edan": "rgdp:pdi:c",
             "edan_simple": "rgdppdic",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a014rx"
-            },
+            "bea": "t10506!a014rx",
             "fred": "cbic1"
         }
     },
@@ -1710,19 +1212,13 @@
         "nominal": {
             "edan": "ngdp:pdi:c:f",
             "edan_simple": "ngdppdicf",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "b018rc"
-            },
+            "bea": "t10505!b018rc",
             "fred": "b018rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:c:f",
             "edan_simple": "rgdppdicf",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "b018rx"
-            },
+            "bea": "t10506!b018rx",
             "fred": "b018rx1q020sbea"
         }
     },
@@ -1733,19 +1229,13 @@
         "nominal": {
             "edan": "ngdp:pdi:c:n",
             "edan_simple": "ngdppdicn",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a015rc"
-            },
+            "bea": "t10505!a015rc",
             "fred": "a015rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:pdi:c:n",
             "edan_simple": "rgdppdicn",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a015rx"
-            },
+            "bea": "t10506!a015rx",
             "fred": "a015rx1q020sbea"
         }
     },
@@ -1756,19 +1246,13 @@
         "nominal": {
             "edan": "ngdp:nx",
             "edan_simple": "ngdpnx",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a019rc"
-            },
+            "bea": "t10505!a019rc",
             "fred": "netexp"
         },
         "real": {
             "edan": "rgdp:nx",
             "edan_simple": "rgdpnx",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a019rx"
-            },
+            "bea": "t10506!a019rx",
             "fred": "netexc"
         }
     },
@@ -1779,37 +1263,25 @@
         "quantity": {
             "edan": "qgdp:nx+x",
             "edan_simple": "qgdpnxx",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b020ra"
-            },
+            "bea": "t10503!b020ra",
             "fred": "b020ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:nx+x",
             "edan_simple": "pgdpnxx",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b020rg"
-            },
+            "bea": "t10504!b020rg",
             "fred": "b020rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:nx+x",
             "edan_simple": "ngdpnxx",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "b020rc"
-            },
+            "bea": "t10505!b020rc",
             "fred": "expgs"
         },
         "real": {
             "edan": "rgdp:nx+x",
             "edan_simple": "rgdpnxx",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a020rx"
-            },
+            "bea": "t10506!a020rx",
             "fred": "expgsc1"
         }
     },
@@ -1820,37 +1292,25 @@
         "quantity": {
             "edan": "qgdp:nx+x:g",
             "edan_simple": "qgdpnxxg",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b253ra"
-            },
+            "bea": "t10503!b253ra",
             "fred": "b253ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:nx+x:g",
             "edan_simple": "pgdpnxxg",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b253rg"
-            },
+            "bea": "t10504!b253rg",
             "fred": "b253rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:nx+x:g",
             "edan_simple": "ngdpnxxg",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a253rc"
-            },
+            "bea": "t10505!a253rc",
             "fred": "a253rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:nx+x:g",
             "edan_simple": "rgdpnxxg",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a253rx"
-            },
+            "bea": "t10506!a253rx",
             "fred": "a253rx1q020sbea"
         }
     },
@@ -1861,37 +1321,25 @@
         "quantity": {
             "edan": "qgdp:nx+x:s",
             "edan_simple": "qgdpnxxs",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b646ra"
-            },
+            "bea": "t10503!b646ra",
             "fred": "b646ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:nx+x:s",
             "edan_simple": "pgdpnxxs",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b646rg"
-            },
+            "bea": "t10504!b646rg",
             "fred": "b646rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:nx+x:s",
             "edan_simple": "ngdpnxxs",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a646rc"
-            },
+            "bea": "t10505!a646rc",
             "fred": "a646rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:nx+x:s",
             "edan_simple": "rgdpnxxs",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a646rx"
-            },
+            "bea": "t10506!a646rx",
             "fred": "a646rx1q020sbea"
         }
     },
@@ -1902,37 +1350,25 @@
         "quantity": {
             "edan": "qgdp:nx-m",
             "edan_simple": "qgdpnxm",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b021ra"
-            },
+            "bea": "t10503!b021ra",
             "fred": "b021ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:nx-m",
             "edan_simple": "pgdpnxm",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b021rg"
-            },
+            "bea": "t10504!b021rg",
             "fred": "b021rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:nx-m",
             "edan_simple": "ngdpnxm",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "b021rc"
-            },
+            "bea": "t10505!b021rc",
             "fred": "impgs"
         },
         "real": {
             "edan": "rgdp:nx-m",
             "edan_simple": "rgdpnxm",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a021rx"
-            },
+            "bea": "t10506!a021rx",
             "fred": "impgsc1"
         }
     },
@@ -1943,37 +1379,25 @@
         "quantity": {
             "edan": "qgdp:nx-m:g",
             "edan_simple": "qgdpnxmg",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b255ra"
-            },
+            "bea": "t10503!b255ra",
             "fred": "b255ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:nx-m:g",
             "edan_simple": "pgdpnxmg",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b255rg"
-            },
+            "bea": "t10504!b255rg",
             "fred": "b255rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:nx-m:g",
             "edan_simple": "ngdpnxmg",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a255rc"
-            },
+            "bea": "t10505!a255rc",
             "fred": "a255rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:nx-m:g",
             "edan_simple": "rgdpnxmg",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a255rx"
-            },
+            "bea": "t10506!a255rx",
             "fred": "a255rx1q020sbea"
         }
     },
@@ -1984,37 +1408,25 @@
         "quantity": {
             "edan": "qgdp:nx-m:s",
             "edan_simple": "qgdpnxms",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b656ra"
-            },
+            "bea": "t10503!b656ra",
             "fred": "b656ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:nx-m:s",
             "edan_simple": "pgdpnxms",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b656rg"
-            },
+            "bea": "t10504!b656rg",
             "fred": "b656rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:nx-m:s",
             "edan_simple": "ngdpnxms",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "b656rc"
-            },
+            "bea": "t10505!b656rc",
             "fred": "b656rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:nx-m:s",
             "edan_simple": "rgdpnxms",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "b656rx"
-            },
+            "bea": "t10506!b656rx",
             "fred": "b656rx1q020sbea"
         }
     },
@@ -2025,37 +1437,25 @@
         "quantity": {
             "edan": "qgdp:gov",
             "edan_simple": "qgdpgov",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b822ra"
-            },
+            "bea": "t10503!b822ra",
             "fred": "b822ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov",
             "edan_simple": "pgdpgov",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b822rg"
-            },
+            "bea": "t10504!b822rg",
             "fred": "b822rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov",
             "edan_simple": "ngdpgov",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a822rc"
-            },
+            "bea": "t10505!a822rc",
             "fred": "gce"
         },
         "real": {
             "edan": "rgdp:gov",
             "edan_simple": "rgdpgov",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a822rx"
-            },
+            "bea": "t10506!a822rx",
             "fred": "gcec1"
         }
     },
@@ -2066,37 +1466,25 @@
         "quantity": {
             "edan": "qgdp:gov:f",
             "edan_simple": "qgdpgovf",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b823ra"
-            },
+            "bea": "t10503!b823ra",
             "fred": "b823ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:f",
             "edan_simple": "pgdpgovf",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b823rg"
-            },
+            "bea": "t10504!b823rg",
             "fred": "b823rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:f",
             "edan_simple": "ngdpgovf",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a823rc"
-            },
+            "bea": "t10505!a823rc",
             "fred": "fgce"
         },
         "real": {
             "edan": "rgdp:gov:f",
             "edan_simple": "rgdpgovf",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a823rx"
-            },
+            "bea": "t10506!a823rx",
             "fred": "fgcec1"
         }
     },
@@ -2107,37 +1495,25 @@
         "quantity": {
             "edan": "qgdp:gov:f:d",
             "edan_simple": "qgdpgovfd",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b824ra"
-            },
+            "bea": "t10503!b824ra",
             "fred": "b824ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:f:d",
             "edan_simple": "pgdpgovfd",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b824rg"
-            },
+            "bea": "t10504!b824rg",
             "fred": "b824rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:f:d",
             "edan_simple": "ngdpgovfd",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a824rc"
-            },
+            "bea": "t10505!a824rc",
             "fred": "fdefx"
         },
         "real": {
             "edan": "rgdp:gov:f:d",
             "edan_simple": "rgdpgovfd",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a824rx"
-            },
+            "bea": "t10506!a824rx",
             "fred": "a824rx1q020sbea"
         }
     },
@@ -2148,37 +1524,25 @@
         "quantity": {
             "edan": "qgdp:gov:f:d:c",
             "edan_simple": "qgdpgovfdc",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "a997ra"
-            },
+            "bea": "t10503!a997ra",
             "fred": "a997ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:f:d:c",
             "edan_simple": "pgdpgovfdc",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "a997rg"
-            },
+            "bea": "t10504!a997rg",
             "fred": "a997rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:f:d:c",
             "edan_simple": "ngdpgovfdc",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a997rc"
-            },
+            "bea": "t10505!a997rc",
             "fred": "a997rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:gov:f:d:c",
             "edan_simple": "rgdpgovfdc",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a997rx"
-            },
+            "bea": "t10506!a997rx",
             "fred": "a997rx1q020sbea"
         }
     },
@@ -2189,37 +1553,25 @@
         "quantity": {
             "edan": "qgdp:gov:f:d:i",
             "edan_simple": "qgdpgovfdi",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b788ra"
-            },
+            "bea": "t10503!b788ra",
             "fred": "b788ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:f:d:i",
             "edan_simple": "pgdpgovfdi",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b788rg"
-            },
+            "bea": "t10504!b788rg",
             "fred": "b788rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:f:d:i",
             "edan_simple": "ngdpgovfdi",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a788rc"
-            },
+            "bea": "t10505!a788rc",
             "fred": "dgi"
         },
         "real": {
             "edan": "rgdp:gov:f:d:i",
             "edan_simple": "rgdpgovfdi",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a788rx"
-            },
+            "bea": "t10506!a788rx",
             "fred": "dgic96"
         }
     },
@@ -2230,37 +1582,25 @@
         "quantity": {
             "edan": "qgdp:gov:f:n",
             "edan_simple": "qgdpgovfn",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b825ra"
-            },
+            "bea": "t10503!b825ra",
             "fred": "b825ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:f:n",
             "edan_simple": "pgdpgovfn",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b825rg"
-            },
+            "bea": "t10504!b825rg",
             "fred": "b825rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:f:n",
             "edan_simple": "ngdpgovfn",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a825rc"
-            },
+            "bea": "t10505!a825rc",
             "fred": "fndefx"
         },
         "real": {
             "edan": "rgdp:gov:f:n",
             "edan_simple": "rgdpgovfn",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a825rx"
-            },
+            "bea": "t10506!a825rx",
             "fred": "a825rx1q020sbea"
         }
     },
@@ -2271,37 +1611,25 @@
         "quantity": {
             "edan": "qgdp:gov:f:n:c",
             "edan_simple": "qgdpgovfnc",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "a542ra"
-            },
+            "bea": "t10503!a542ra",
             "fred": "a542ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:f:n:c",
             "edan_simple": "pgdpgovfnc",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "a542rg"
-            },
+            "bea": "t10504!a542rg",
             "fred": "a542rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:f:n:c",
             "edan_simple": "ngdpgovfnc",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a542rc"
-            },
+            "bea": "t10505!a542rc",
             "fred": "a542rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:gov:f:n:c",
             "edan_simple": "rgdpgovfnc",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a542rx"
-            },
+            "bea": "t10506!a542rx",
             "fred": "a542rx1q020sbea"
         }
     },
@@ -2312,37 +1640,25 @@
         "quantity": {
             "edan": "qgdp:gov:f:n:i",
             "edan_simple": "qgdpgovfni",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b798ra"
-            },
+            "bea": "t10503!b798ra",
             "fred": "b798ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:f:n:i",
             "edan_simple": "pgdpgovfni",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b798rg"
-            },
+            "bea": "t10504!b798rg",
             "fred": "b798rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:f:n:i",
             "edan_simple": "ngdpgovfni",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a798rc"
-            },
+            "bea": "t10505!a798rc",
             "fred": "ndgi"
         },
         "real": {
             "edan": "rgdp:gov:f:n:i",
             "edan_simple": "rgdpgovfni",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a798rx"
-            },
+            "bea": "t10506!a798rx",
             "fred": "ndgic96"
         }
     },
@@ -2353,37 +1669,25 @@
         "quantity": {
             "edan": "qgdp:gov:s",
             "edan_simple": "qgdpgovs",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b829ra"
-            },
+            "bea": "t10503!b829ra",
             "fred": "b829ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:s",
             "edan_simple": "pgdpgovs",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b829rg"
-            },
+            "bea": "t10504!b829rg",
             "fred": "b829rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:s",
             "edan_simple": "ngdpgovs",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a829rc"
-            },
+            "bea": "t10505!a829rc",
             "fred": "slce"
         },
         "real": {
             "edan": "rgdp:gov:s",
             "edan_simple": "rgdpgovs",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a829rx"
-            },
+            "bea": "t10506!a829rx",
             "fred": "slcec1"
         }
     },
@@ -2394,37 +1698,25 @@
         "quantity": {
             "edan": "qgdp:gov:s:c",
             "edan_simple": "qgdpgovsc",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "a991ra"
-            },
+            "bea": "t10503!a991ra",
             "fred": "a991ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:s:c",
             "edan_simple": "pgdpgovsc",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "a991rg"
-            },
+            "bea": "t10504!a991rg",
             "fred": "a991rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:s:c",
             "edan_simple": "ngdpgovsc",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a991rc"
-            },
+            "bea": "t10505!a991rc",
             "fred": "a991rc1q027sbea"
         },
         "real": {
             "edan": "rgdp:gov:s:c",
             "edan_simple": "rgdpgovsc",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a991rx"
-            },
+            "bea": "t10506!a991rx",
             "fred": "a991rx1q020sbea"
         }
     },
@@ -2435,37 +1727,25 @@
         "quantity": {
             "edan": "qgdp:gov:s:i",
             "edan_simple": "qgdpgovsi",
-            "bea": {
-                "table_name": "t10503",
-                "series_name": "b799ra"
-            },
+            "bea": "t10503!b799ra",
             "fred": "b799ra3q086sbea"
         },
         "price": {
             "edan": "pgdp:gov:s:i",
             "edan_simple": "pgdpgovsi",
-            "bea": {
-                "table_name": "t10504",
-                "series_name": "b799rg"
-            },
+            "bea": "t10504!b799rg",
             "fred": "b799rg3q086sbea"
         },
         "nominal": {
             "edan": "ngdp:gov:s:i",
             "edan_simple": "ngdpgovsi",
-            "bea": {
-                "table_name": "t10505",
-                "series_name": "a799rc"
-            },
+            "bea": "t10505!a799rc",
             "fred": "slinv"
         },
         "real": {
             "edan": "rgdp:gov:s:i",
             "edan_simple": "rgdpgovsi",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "a799rx"
-            },
+            "bea": "t10506!a799rx",
             "fred": "slinvc96"
         }
     },
@@ -2476,10 +1756,7 @@
         "real": {
             "edan": "rgdp:res",
             "edan_simple": "rgdpres",
-            "bea": {
-                "table_name": "t10506",
-                "series_name": "ar05rx"
-            },
+            "bea": "t10506!ar05rx",
             "fred": "ar05rx1q020sbea"
         }
     }
