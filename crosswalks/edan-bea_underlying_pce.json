@@ -3553,16 +3553,6 @@
         "bea_name": "Net expenditures abroad by U.S. residents (131)",
         "table_row": 143,
         "level": 4,
-        "quantity": {
-            "edan": "qpce:g:n:o:a",
-            "edan_simple": "qpcegnoa",
-            "bea": "niunderlyingdetail!!"
-        },
-        "price": {
-            "edan": "ppce:g:n:o:a",
-            "edan_simple": "ppcegnoa",
-            "bea": "niunderlyingdetail!!"
-        },
         "nominal": {
             "edan": "npce:g:n:o:a",
             "edan_simple": "npcegnoa",
@@ -8203,16 +8193,6 @@
         "bea_name": "Net foreign travel",
         "table_row": 329,
         "level": 4,
-        "quantity": {
-            "edan": "qpce:s:h:o:f",
-            "edan_simple": "qpceshof",
-            "bea": "niunderlyingdetail!!"
-        },
-        "price": {
-            "edan": "ppce:s:h:o:f",
-            "edan_simple": "ppceshof",
-            "bea": "niunderlyingdetail!!"
-        },
         "nominal": {
             "edan": "npce:s:h:o:f",
             "edan_simple": "npceshof",
