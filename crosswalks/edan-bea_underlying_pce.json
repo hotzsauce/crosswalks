@@ -4314,28 +4314,28 @@
             "bea": "niunderlyingdetail!u20406!dhhcrx"
         }
     },
-    "pce:s:h:c:o:p:h:l": {
+    "pce:s:h:c:o:p:l": {
         "bea_name": "Medical laboratories",
         "table_row": 174,
-        "level": 7,
+        "level": 6,
         "quantity": {
-            "edan": "qpce:s:h:c:o:p:h:l",
-            "edan_simple": "qpceshcophl",
+            "edan": "qpce:s:h:c:o:p:l",
+            "edan_simple": "qpceshcopl",
             "bea": "niunderlyingdetail!u20403!dmlbra"
         },
         "price": {
-            "edan": "ppce:s:h:c:o:p:h:l",
-            "edan_simple": "ppceshcophl",
+            "edan": "ppce:s:h:c:o:p:l",
+            "edan_simple": "ppceshcopl",
             "bea": "niunderlyingdetail!u20404!dmlbrg"
         },
         "nominal": {
-            "edan": "npce:s:h:c:o:p:h:l",
-            "edan_simple": "npceshcophl",
+            "edan": "npce:s:h:c:o:p:l",
+            "edan_simple": "npceshcopl",
             "bea": "niunderlyingdetail!u20405!dmlbrc"
         },
         "real": {
-            "edan": "rpce:s:h:c:o:p:h:l",
-            "edan_simple": "rpceshcophl",
+            "edan": "rpce:s:h:c:o:p:l",
+            "edan_simple": "rpceshcopl",
             "bea": "niunderlyingdetail!u20406!dmlbrx"
         }
     },
